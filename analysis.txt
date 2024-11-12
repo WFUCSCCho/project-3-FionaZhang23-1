@@ -1,0 +1,311 @@
+sorting type: bubble
+numLines: 100
+numbers of swaps for sorted list: 57
+numbers of swaps for shuffled list: 1625
+numbers of swaps for shuffled list: 1653
+SortedList Running times: 10625
+RandomizedList Running times: 310208
+ReverseList Running times: 442833
+sorting type: bubble
+numLines: 200
+numbers of swaps for sorted list: 125
+numbers of swaps for shuffled list: 7739
+numbers of swaps for shuffled list: 7875
+SortedList Running times: 29541
+RandomizedList Running times: 429625
+ReverseList Running times: 1737708
+sorting type: bubble
+numLines: 300
+numbers of swaps for sorted list: 174
+numbers of swaps for shuffled list: 15189
+numbers of swaps for shuffled list: 15225
+SortedList Running times: 11917
+RandomizedList Running times: 795959
+ReverseList Running times: 2417708
+sorting type: bubble
+numLines: 400
+numbers of swaps for sorted list: 235
+numbers of swaps for shuffled list: 27477
+numbers of swaps for shuffled list: 27730
+SortedList Running times: 30083
+RandomizedList Running times: 1523042
+ReverseList Running times: 4574833
+sorting type: bubble
+numLines: 500
+numbers of swaps for sorted list: 300
+numbers of swaps for shuffled list: 45030
+numbers of swaps for shuffled list: 45150
+SortedList Running times: 17917
+RandomizedList Running times: 1467458
+ReverseList Running times: 2814000
+sorting type: bubble
+numLines: 600
+numbers of swaps for sorted list: 360
+numbers of swaps for shuffled list: 63990
+numbers of swaps for shuffled list: 64980
+SortedList Running times: 20667
+RandomizedList Running times: 796459
+ReverseList Running times: 4821833
+sorting type: bubble
+numLines: 700
+numbers of swaps for sorted list: 414
+numbers of swaps for shuffled list: 85860
+numbers of swaps for shuffled list: 85905
+SortedList Running times: 58959
+RandomizedList Running times: 1571125
+ReverseList Running times: 6152417
+sorting type: bubble
+numLines: 800
+numbers of swaps for sorted list: 480
+numbers of swaps for shuffled list: 115304
+numbers of swaps for shuffled list: 115440
+SortedList Running times: 25667
+RandomizedList Running times: 1305334
+ReverseList Running times: 5789333
+sorting type: bubble
+numLines: 900
+numbers of swaps for sorted list: 547
+numbers of swaps for shuffled list: 148552
+numbers of swaps for shuffled list: 149878
+SortedList Running times: 55625
+RandomizedList Running times: 1664625
+ReverseList Running times: 5224417
+sorting type: merge
+numLines: 100
+SortedList Running times: 161375
+RandomizedList Running times: 75750
+ReverseList Running times: 85666
+sorting type: merge
+numLines: 200
+SortedList Running times: 622458
+RandomizedList Running times: 115375
+ReverseList Running times: 207333
+sorting type: merge
+numLines: 300
+SortedList Running times: 351458
+RandomizedList Running times: 162417
+ReverseList Running times: 169000
+sorting type: merge
+numLines: 400
+SortedList Running times: 226542
+RandomizedList Running times: 170791
+ReverseList Running times: 104625
+sorting type: merge
+numLines: 500
+SortedList Running times: 959708
+RandomizedList Running times: 112083
+ReverseList Running times: 179833
+sorting type: merge
+numLines: 600
+SortedList Running times: 362542
+RandomizedList Running times: 94000
+ReverseList Running times: 117958
+sorting type: merge
+numLines: 700
+SortedList Running times: 873167
+RandomizedList Running times: 111708
+ReverseList Running times: 122167
+sorting type: merge
+numLines: 800
+SortedList Running times: 643125
+RandomizedList Running times: 141292
+ReverseList Running times: 252750
+sorting type: merge
+numLines: 900
+SortedList Running times: 564250
+RandomizedList Running times: 437125
+ReverseList Running times: 217625
+sorting type: quick
+numLines: 100
+SortedList Running times: 448625
+RandomizedList Running times: 45125
+ReverseList Running times: 81542
+sorting type: quick
+numLines: 200
+SortedList Running times: 1974125
+RandomizedList Running times: 47167
+ReverseList Running times: 322959
+sorting type: quick
+numLines: 300
+SortedList Running times: 1785875
+RandomizedList Running times: 81000
+ReverseList Running times: 597792
+sorting type: quick
+numLines: 400
+SortedList Running times: 2053792
+RandomizedList Running times: 74417
+ReverseList Running times: 192958
+sorting type: quick
+numLines: 500
+SortedList Running times: 3016042
+RandomizedList Running times: 117166
+ReverseList Running times: 291584
+sorting type: quick
+numLines: 600
+SortedList Running times: 3511291
+RandomizedList Running times: 278916
+ReverseList Running times: 811375
+sorting type: quick
+numLines: 700
+SortedList Running times: 3996375
+RandomizedList Running times: 339958
+ReverseList Running times: 1127583
+sorting type: quick
+numLines: 800
+SortedList Running times: 4160209
+RandomizedList Running times: 517292
+ReverseList Running times: 1371834
+sorting type: quick
+numLines: 900
+SortedList Running times: 4109333
+RandomizedList Running times: 422709
+ReverseList Running times: 1049750
+sorting type: heap
+numLines: 100
+SortedList Running times: 139792
+RandomizedList Running times: 830459
+ReverseList Running times: 43125
+sorting type: heap
+numLines: 200
+SortedList Running times: 531417
+RandomizedList Running times: 32250
+ReverseList Running times: 44917
+sorting type: heap
+numLines: 300
+SortedList Running times: 223083
+RandomizedList Running times: 48875
+ReverseList Running times: 62917
+sorting type: heap
+numLines: 400
+SortedList Running times: 387959
+RandomizedList Running times: 197084
+ReverseList Running times: 205833
+sorting type: heap
+numLines: 500
+SortedList Running times: 1401583
+RandomizedList Running times: 240875
+ReverseList Running times: 105500
+sorting type: heap
+numLines: 600
+SortedList Running times: 427916
+RandomizedList Running times: 127083
+ReverseList Running times: 129417
+sorting type: heap
+numLines: 700
+SortedList Running times: 723708
+RandomizedList Running times: 135667
+ReverseList Running times: 164541
+sorting type: heap
+numLines: 800
+SortedList Running times: 1033333
+RandomizedList Running times: 159417
+ReverseList Running times: 205042
+sorting type: heap
+numLines: 900
+SortedList Running times: 821042
+RandomizedList Running times: 187875
+ReverseList Running times: 212375
+sorting type: transposition
+numLines: 100
+numbers of swaps for sorted list: 57
+numbers of swaps for shuffled list: 1539
+numbers of swaps for shuffled list: 1710
+SortedList Running times: 10250
+RandomizedList Running times: 86167
+ReverseList Running times: 225917
+sorting type: transposition
+numLines: 200
+numbers of swaps for sorted list: 125
+numbers of swaps for shuffled list: 6750
+numbers of swaps for shuffled list: 8000
+SortedList Running times: 28833
+RandomizedList Running times: 453625
+ReverseList Running times: 2263041
+sorting type: transposition
+numLines: 300
+numbers of swaps for sorted list: 174
+numbers of swaps for shuffled list: 14094
+numbers of swaps for shuffled list: 15486
+SortedList Running times: 11541
+RandomizedList Running times: 880167
+ReverseList Running times: 2639500
+sorting type: transposition
+numLines: 400
+numbers of swaps for sorted list: 235
+numbers of swaps for shuffled list: 27260
+numbers of swaps for shuffled list: 27965
+SortedList Running times: 14416
+RandomizedList Running times: 1412000
+ReverseList Running times: 2437334
+sorting type: transposition
+numLines: 500
+numbers of swaps for sorted list: 300
+numbers of swaps for shuffled list: 41400
+numbers of swaps for shuffled list: 45600
+SortedList Running times: 21834
+RandomizedList Running times: 1907417
+ReverseList Running times: 2683000
+sorting type: transposition
+numLines: 600
+numbers of swaps for sorted list: 360
+numbers of swaps for shuffled list: 56880
+numbers of swaps for shuffled list: 65520
+SortedList Running times: 20292
+RandomizedList Running times: 809417
+ReverseList Running times: 4522125
+sorting type: transposition
+numLines: 700
+numbers of swaps for sorted list: 414
+numbers of swaps for shuffled list: 83214
+numbers of swaps for shuffled list: 86526
+SortedList Running times: 57417
+RandomizedList Running times: 947000
+ReverseList Running times: 5792917
+sorting type: transposition
+numLines: 800
+numbers of swaps for sorted list: 480
+numbers of swaps for shuffled list: 113760
+numbers of swaps for shuffled list: 116160
+SortedList Running times: 25292
+RandomizedList Running times: 2150084
+ReverseList Running times: 5313750
+sorting type: transposition
+numLines: 900
+numbers of swaps for sorted list: 547
+numbers of swaps for shuffled list: 141126
+numbers of swaps for shuffled list: 150425
+SortedList Running times: 67333
+RandomizedList Running times: 2172792
+ReverseList Running times: 5720541
+sorting type: transposition
+numLines: 900
+numbers of swaps for sorted list: 547
+numbers of swaps for shuffled list: 144955
+numbers of swaps for shuffled list: 150425
+SortedList Running times: 32083
+RandomizedList Running times: 1753792
+ReverseList Running times: 4896542
+sorting type: transposition
+numLines: 900
+numbers of swaps for sorted list: 547
+numbers of swaps for shuffled list: 142767
+numbers of swaps for shuffled list: 150425
+SortedList Running times: 28625
+RandomizedList Running times: 1757334
+ReverseList Running times: 6094208
+sorting type: transposition
+numLines: 900
+numbers of swaps for sorted list: 547
+numbers of swaps for shuffled list: 144408
+numbers of swaps for shuffled list: 150425
+SortedList Running times: 27667
+RandomizedList Running times: 2144750
+ReverseList Running times: 6588875
+sorting type: transposition
+numLines: 900
+numbers of swaps for sorted list: 547
+numbers of swaps for shuffled list: 139485
+numbers of swaps for shuffled list: 150425
+SortedList Running times: 47083
+RandomizedList Running times: 1718834
+ReverseList Running times: 4954375
