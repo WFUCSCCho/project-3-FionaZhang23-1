@@ -95,18 +95,24 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 vs. N for each case. Take a screenshot of your graph and put them here by modifying this file, committing, and pushing 
 it to this repository.
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):<img width="603" alt="Screenshot 2024-11-12 at 3 01 30 PM" src="https://github.com/user-attachments/assets/f20ff97c-bdf4-4582-985f-d6102aa256d5">
+
 ![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):<img width="601" alt="Screenshot 2024-11-12 at 3 01 38 PM" src="https://github.com/user-attachments/assets/2ee561aa-3820-4b39-91a6-2d570ad9a9c4">
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 
-Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):<img width="605" alt="Screenshot 2024-11-12 at 3 01 43 PM" src="https://github.com/user-attachments/assets/e7d2795e-02e5-4559-b706-777be770d58d">
 
-Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
 
-Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):<img width="603" alt="Screenshot 2024-11-12 at 3 01 10 PM" src="https://github.com/user-attachments/assets/efa47e3b-e194-4817-8fe8-151bdfdbd840">
+
+
+Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):<img width="600" alt="Screenshot 2024-11-12 at 3 01 15 PM" src="https://github.com/user-attachments/assets/8ba5861a-f906-495e-932d-f8c7fd70ea0f">
+
+
+Bubble Sort and Odd-Even Transposition Sort comparison (reversed):<img width="600" alt="Screenshot 2024-11-12 at 3 01 22 PM" src="https://github.com/user-attachments/assets/7494bcdd-7b96-40de-b79e-32ccbcbb9ffa">
+
 
 ## Submission:
 
