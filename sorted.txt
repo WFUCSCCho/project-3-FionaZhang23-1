@@ -1,0 +1,1648 @@
+
+Sorted List after sorting
+Song{trackName='The Christmas Song (Merry Christmas To You) - Remastered 1999', artistName='Nat King Cole', releaseYear=1, streams=1946, bpm=11, danceability=1}
+Song{trackName='A Holly Jolly Christmas - Single Version', artistName='Burl Ives', releaseYear=1, streams=1952, bpm=1, danceability=1}
+Song{trackName='Jingle Bell Rock', artistName='Bobby Helms', releaseYear=1, streams=1957, bpm=1, danceability=1}
+Song{trackName='Jingle Bells - Remastered 1999', artistName='Frank Sinatra', releaseYear=1, streams=1957, bpm=1, danceability=1}
+Song{trackName='Rockin' Around The Christmas Tree', artistName='Brenda Lee', releaseYear=1, streams=1958, bpm=1, danceability=1}
+Song{trackName='Run Rudolph Run - Single Version', artistName='Chuck Berry', releaseYear=1, streams=1958, bpm=1, danceability=1}
+Song{trackName='Let It Snow! Let It Snow! Let It Snow!', artistName='Dean Martin', releaseYear=1, streams=1959, bpm=11, danceability=16}
+Song{trackName='Deck The Hall - Remastered 1999', artistName='Nat King Cole', releaseYear=1, streams=1959, bpm=1, danceability=1}
+Song{trackName='It's the Most Wonderful Time of the Year', artistName='Andy Williams', releaseYear=1, streams=1963, bpm=10, danceability=14}
+Song{trackName='Sleigh Ride', artistName='The Ronettes', releaseYear=1, streams=1963, bpm=11, danceability=22}
+Song{trackName='Christmas (Baby Please Come Home)', artistName='Darlene Love', releaseYear=1, streams=1963, bpm=11, danceability=22}
+Song{trackName='Have You Ever Seen The Rain?', artistName='Creedence Clearwater Revival', releaseYear=1, streams=1968, bpm=7, danceability=1}
+Song{trackName='Feliz Navidad', artistName='Jos�� Felic', releaseYear=1, streams=1970, bpm=11, danceability=1}
+Song{trackName='Love Grows (Where My Rosemary Goes)', artistName='Edison Lighthouse', releaseYear=1, streams=1970, bpm=1, danceability=1}
+Song{trackName='Dream On', artistName='Aerosmith', releaseYear=1, streams=1973, bpm=1, danceability=5}
+Song{trackName='Riptide', artistName='Vance Joy', releaseYear=1, streams=1975, bpm=1, danceability=1}
+Song{trackName='Bohemian Rhapsody - Remastered 2011', artistName='Queen', releaseYear=1, streams=1975, bpm=10, danceability=31}
+Song{trackName='Wonderful Christmastime - Edited Version / Remastered 2011', artistName='Paul McCartney', releaseYear=1, streams=1979, bpm=11, danceability=16}
+Song{trackName='Pass The Dutchie', artistName='Musical Youth', releaseYear=1, streams=1982, bpm=1, danceability=1}
+Song{trackName='Every Breath You Take - Remastered 2003', artistName='The Police', releaseYear=1, streams=1983, bpm=1, danceability=6}
+Song{trackName='Take On Me', artistName='a-ha', releaseYear=1, streams=1984, bpm=10, danceability=19}
+Song{trackName='Last Christmas', artistName='Wham!', releaseYear=1, streams=1984, bpm=1, danceability=1}
+Song{trackName='Do They Know It's Christmas? - 1984 Version', artistName='Band Aid', releaseYear=1, streams=1984, bpm=11, danceability=25}
+Song{trackName='Merry Christmas Everyone', artistName='Shakin' Stevens', releaseYear=1, streams=1984, bpm=1, danceability=1}
+Song{trackName='Everybody Wants To Rule The World', artistName='Tears For Fears', releaseYear=1, streams=1985, bpm=2, danceability=17}
+Song{trackName='Running Up That Hill (A Deal With God)', artistName='Kate Bush', releaseYear=1, streams=1985, bpm=9, danceability=16}
+Song{trackName='Driving Home for Christmas - 2019 Remaster', artistName='Chris Rea', releaseYear=1, streams=1986, bpm=1, danceability=1}
+Song{trackName='Master of Puppets (Remastered)', artistName='Metallica', releaseYear=1, streams=1986, bpm=3, danceability=3}
+Song{trackName='Sweet Child O' Mine', artistName='Guns N' Roses', releaseYear=1, streams=1987, bpm=1, danceability=1}
+Song{trackName='Smells Like Teen Spirit - Remastered 2021', artistName='Nirvana', releaseYear=1, streams=1991, bpm=9, danceability=10}
+Song{trackName='Something In The Way - Remastered 2021', artistName='Nirvana', releaseYear=1, streams=1991, bpm=9, danceability=24}
+Song{trackName='Creep', artistName='Radiohead', releaseYear=1, streams=1992, bpm=9, danceability=21}
+Song{trackName='All I Want for Christmas Is You', artistName='Mariah Carey', releaseYear=1, streams=1994, bpm=10, danceability=28}
+Song{trackName='Cupid ��� Twin Ver. (FIFTY FIFTY) ��� Spe', artistName='sped up 8282', releaseYear=1, streams=1997, bpm=1, danceability=1}
+Song{trackName='Iris', artistName='The Goo Goo Dolls', releaseYear=1, streams=1998, bpm=3, danceability=31}
+Song{trackName='Yellow', artistName='Chris Molitor', releaseYear=1, streams=1999, bpm=1, danceability=1}
+Song{trackName='The Real Slim Shady', artistName='Eminem', releaseYear=1, streams=2000, bpm=1, danceability=1}
+Song{trackName='In The End', artistName='Linkin Park', releaseYear=1, streams=2000, bpm=10, danceability=24}
+Song{trackName='My Only Wish (This Year)', artistName='Britney Spears', releaseYear=1, streams=2000, bpm=11, danceability=7}
+Song{trackName='Without Me', artistName='Eminem', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Lose Yourself - Soundtrack Version', artistName='Eminem', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='In Da Club', artistName='50 Cent', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Numb', artistName='Linkin Park', releaseYear=1, streams=2003, bpm=3, danceability=24}
+Song{trackName='Mr. Brightside', artistName='The Killers', releaseYear=1, streams=2003, bpm=9, danceability=23}
+Song{trackName='Mockingbird', artistName='Eminem', releaseYear=1, streams=2004, bpm=1, danceability=1}
+Song{trackName='Somewhere Only We Know', artistName='Keane', releaseYear=1, streams=2004, bpm=1, danceability=1}
+Song{trackName='Gasolina', artistName='Daddy Yankee', releaseYear=1, streams=2004, bpm=7, danceability=13}
+Song{trackName='Yo Voy (feat. Daddy Yankee)', artistName='Zion & Lennox', releaseYear=1, streams=2004, bpm=5, danceability=4}
+Song{trackName='505', artistName='Arctic Monkeys', releaseYear=1, streams=2007, bpm=4, danceability=20}
+Song{trackName='Viva La Vida', artistName='Coldplay', releaseYear=1, streams=2008, bpm=1, danceability=1}
+Song{trackName='Heartless', artistName='Kanye West', releaseYear=1, streams=2008, bpm=1, danceability=1}
+Song{trackName='Enchanted', artistName='Taylor Swift', releaseYear=1, streams=2010, bpm=1, danceability=1}
+Song{trackName='Sure Thing', artistName='Miguel', releaseYear=1, streams=2010, bpm=5, danceability=25}
+Song{trackName='Just The Way You Are', artistName='Bruno Mars', releaseYear=1, streams=2010, bpm=1, danceability=1}
+Song{trackName='Es un Secreto', artistName='Plan B', releaseYear=1, streams=2010, bpm=7, danceability=20}
+Song{trackName='Rolling in the Deep', artistName='Adele', releaseYear=1, streams=2010, bpm=11, danceability=29}
+Song{trackName='Talking To The Moon', artistName='Bruno Mars', releaseYear=1, streams=2010, bpm=10, danceability=4}
+Song{trackName='Summertime Sadness', artistName='Lana Del Rey', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Set Fire to the Rain', artistName='Adele', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Radio', artistName='Lana Del Rey', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Bloody Mary', artistName='Lady Gaga', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='It's Beginning To Look A Lot Like Christmas', artistName='Michael Bubl�', releaseYear=1, streams=2011, bpm=10, danceability=14}
+Song{trackName='Holly Jolly Christmas', artistName='Michael Bubl�', releaseYear=1, streams=2011, bpm=10, danceability=14}
+Song{trackName='Mistletoe', artistName='Justin Bieber', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Another Love', artistName='Tom Odell', releaseYear=1, streams=2012, bpm=10, danceability=15}
+Song{trackName='Sweater Weather', artistName='The Neighbourhood', releaseYear=1, streams=2012, bpm=5, danceability=14}
+Song{trackName='Lover', artistName='Taylor Swift', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='Locked Out Of Heaven', artistName='Bruno Mars', releaseYear=1, streams=2012, bpm=12, danceability=5}
+Song{trackName='When I Was Your Man', artistName='Bruno Mars', releaseYear=1, streams=2012, bpm=12, danceability=5}
+Song{trackName='Demons', artistName='Imagine Dragons', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='Lost', artistName='Frank Ocean', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='I Wanna Be Yours', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Counting Stars', artistName='OneRepublic', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Do I Wanna Know?', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Why'd You Only Call Me When You're High?', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Take Me To Church', artistName='Hozier', releaseYear=1, streams=2013, bpm=9, danceability=13}
+Song{trackName='Santa Tell Me', artistName='Ariana Grande', releaseYear=1, streams=2013, bpm=12, danceability=13}
+Song{trackName='Underneath the Tree', artistName='Kelly Clarkson', releaseYear=1, streams=2013, bpm=10, danceability=25}
+Song{trackName='All of Me', artistName='John Legend', releaseYear=1, streams=2013, bpm=8, danceability=1}
+Song{trackName='Ginseng Strip 2002', artistName='Yung Lean', releaseYear=1, streams=2013, bpm=8, danceability=16}
+Song{trackName='Wake Me Up - Radio Edit', artistName='Avicii', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Blank Space', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Style', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='No Role Modelz', artistName='J. Cole', releaseYear=1, streams=2014, bpm=12, danceability=9}
+Song{trackName='Shake It Off', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Night Changes', artistName='One Direction', releaseYear=1, streams=2014, bpm=11, danceability=17}
+Song{trackName='Lovers Rock', artistName='TV Girl', releaseYear=1, streams=2014, bpm=6, danceability=5}
+Song{trackName='I Love You So', artistName='The Walters', releaseYear=1, streams=2014, bpm=11, danceability=28}
+Song{trackName='I'm Not The Only One', artistName='Sam Smith', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='After Dark', artistName='Mr.Kitty', releaseYear=1, streams=2014, bpm=8, danceability=8}
+Song{trackName='The Nights', artistName='Avicii', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Thinking Out Loud', artistName='Ed Sheeran', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Photograph', artistName='Ed Sheeran', releaseYear=1, streams=2014, bpm=6, danceability=20}
+Song{trackName='Only Love Can Hurt Like This', artistName='Paloma Faith', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Makeba', artistName='Jain', releaseYear=1, streams=2015, bpm=6, danceability=22}
+Song{trackName='The Night We Met', artistName='Lord Huron', releaseYear=1, streams=2015, bpm=2, danceability=2}
+Song{trackName='The Hills', artistName='The Weeknd', releaseYear=1, streams=2015, bpm=5, danceability=27}
+Song{trackName='Space Song', artistName='Beach House', releaseYear=1, streams=2015, bpm=1, danceability=1}
+Song{trackName='Atlantis', artistName='Seafret', releaseYear=1, streams=2015, bpm=4, danceability=22}
+Song{trackName='Freaks', artistName='Surf Curse', releaseYear=1, streams=2015, bpm=5, danceability=10}
+Song{trackName='Daddy Issues', artistName='The Neighbourhood', releaseYear=1, streams=2015, bpm=10, danceability=30}
+Song{trackName='Alien Blues', artistName='Vundabar', releaseYear=1, streams=2015, bpm=7, danceability=24}
+Song{trackName='Wait a Minute!', artistName='Willow', releaseYear=1, streams=2015, bpm=1, danceability=11}
+Song{trackName='Cool for the Summer', artistName='Demi Lovato', releaseYear=1, streams=2015, bpm=1, danceability=1}
+Song{trackName='Love Yourself', artistName='Justin Bieber', releaseYear=1, streams=2015, bpm=11, danceability=9}
+Song{trackName='Die For You', artistName='The Weeknd', releaseYear=1, streams=2016, bpm=11, danceability=24}
+Song{trackName='Reminder', artistName='The Weeknd', releaseYear=1, streams=2016, bpm=11, danceability=25}
+Song{trackName='Pink + White', artistName='Frank Ocean', releaseYear=1, streams=2016, bpm=8, danceability=20}
+Song{trackName='Unstoppable', artistName='Sia', releaseYear=1, streams=2016, bpm=1, danceability=21}
+Song{trackName='Say You Won't Let Go', artistName='James Arthur', releaseYear=1, streams=2016, bpm=9, danceability=9}
+Song{trackName='Pope Is a Rockstar', artistName='SALES', releaseYear=1, streams=2016, bpm=4, danceability=20}
+Song{trackName='Notion', artistName='The Rare Occasions', releaseYear=1, streams=2016, bpm=8, danceability=5}
+Song{trackName='There's Nothing Holdin' Me Back', artistName='Shawn Mendes', releaseYear=1, streams=2016, bpm=9, danceability=23}
+Song{trackName='House Of Memories', artistName='Panic! At The Disco', releaseYear=1, streams=2016, bpm=1, danceability=15}
+Song{trackName='Me and Your Mama', artistName='Childish Gambino', releaseYear=1, streams=2016, bpm=11, danceability=10}
+Song{trackName='Don���t Bl', artistName='Taylor Swift', releaseYear=1, streams=2017, bpm=11, danceability=8}
+Song{trackName='Dandelions', artistName='Ruth B.', releaseYear=1, streams=2017, bpm=4, danceability=28}
+Song{trackName='Perfect', artistName='Ed Sheeran', releaseYear=1, streams=2017, bpm=1, danceability=1}
+Song{trackName='Believer', artistName='Imagine Dragons', releaseYear=1, streams=2017, bpm=1, danceability=31}
+Song{trackName='Shape of You', artistName='Ed Sheeran', releaseYear=1, streams=2017, bpm=1, danceability=6}
+Song{trackName='Apocalypse', artistName='Cigarettes After Sex', releaseYear=1, streams=2017, bpm=3, danceability=21}
+Song{trackName='Dark Red', artistName='Steve Lacy', releaseYear=1, streams=2017, bpm=2, danceability=20}
+Song{trackName='Revenge', artistName='XXXTENTACION', releaseYear=1, streams=2017, bpm=8, danceability=25}
+Song{trackName='Snowman', artistName='Sia', releaseYear=1, streams=2017, bpm=1, danceability=1}
+Song{trackName='Infinity', artistName='Jaymes Young', releaseYear=1, streams=2017, bpm=6, danceability=23}
+Song{trackName='Beggin', artistName='M��ne', releaseYear=1, streams=2017, bpm=12, danceability=8}
+Song{trackName='Bored', artistName='Billie Eilish', releaseYear=1, streams=2017, bpm=3, danceability=30}
+Song{trackName='Lucid Dreams', artistName='Juice WRLD', releaseYear=1, streams=2017, bpm=6, danceability=15}
+Song{trackName='HUMBLE.', artistName='Kendrick Lamar', releaseYear=1, streams=2017, bpm=3, danceability=30}
+Song{trackName='Swim', artistName='Chase Atlantic', releaseYear=1, streams=2017, bpm=10, danceability=4}
+Song{trackName='Good Looking', artistName='Suki Waterhouse', releaseYear=1, streams=2017, bpm=10, danceability=20}
+Song{trackName='Someone You Loved', artistName='Lewis Capaldi', releaseYear=1, streams=2018, bpm=11, danceability=8}
+Song{trackName='Let Me Down Slowly', artistName='Alec Benjamin', releaseYear=1, streams=2018, bpm=5, danceability=25}
+Song{trackName='Call Out My Name', artistName='The Weeknd', releaseYear=1, streams=2018, bpm=3, danceability=29}
+Song{trackName='Softcore', artistName='The Neighbourhood', releaseYear=1, streams=2018, bpm=3, danceability=9}
+Song{trackName='Hope', artistName='XXXTENTACION', releaseYear=1, streams=2018, bpm=3, danceability=16}
+Song{trackName='SLOW DANCING IN THE DARK', artistName='Joji', releaseYear=1, streams=2018, bpm=9, danceability=12}
+Song{trackName='Cruel Summer', artistName='Taylor Swift', releaseYear=1, streams=2019, bpm=8, danceability=23}
+Song{trackName='Blinding Lights', artistName='The Weeknd', releaseYear=1, streams=2019, bpm=11, danceability=29}
+Song{trackName='Watermelon Sugar', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=11, danceability=17}
+Song{trackName='Those Eyes', artistName='New West', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Under The Influence', artistName='Chris Brown', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Car's Outside', artistName='James Arthur', releaseYear=1, streams=2019, bpm=10, danceability=18}
+Song{trackName='Circles', artistName='Post Malone', releaseYear=1, streams=2019, bpm=8, danceability=30}
+Song{trackName='All Of The Girls You Loved Before', artistName='Taylor Swift', releaseYear=1, streams=2019, bpm=8, danceability=23}
+Song{trackName='Heart To Heart', artistName='Mac DeMarco', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Don't Start Now', artistName='Dua Lipa', releaseYear=1, streams=2019, bpm=10, danceability=31}
+Song{trackName='love nwantiti (ah ah ah)', artistName='Ckay', releaseYear=1, streams=2019, bpm=7, danceability=26}
+Song{trackName='Before You Go', artistName='Lewis Capaldi', releaseYear=1, streams=2019, bpm=11, danceability=1}
+Song{trackName='Astronaut In The Ocean', artistName='Masked Wolf', releaseYear=1, streams=2019, bpm=1, danceability=1}
+Song{trackName='Dance Monkey', artistName='Tones and I', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Arcade', artistName='Duncan Laurence', releaseYear=1, streams=2019, bpm=3, danceability=7}
+Song{trackName='Streets', artistName='Doja Cat', releaseYear=1, streams=2019, bpm=11, danceability=7}
+Song{trackName='Memories', artistName='Maroon 5', releaseYear=1, streams=2019, bpm=9, danceability=20}
+Song{trackName='Formula', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Mount Everest', artistName='Labrinth', releaseYear=1, streams=2019, bpm=6, danceability=21}
+Song{trackName='Still Don't Know My Name', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='When I R.I.P.', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Forever', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Adore You', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=6}
+Song{trackName='Falling', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=13}
+Song{trackName='Golden', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=13}
+Song{trackName='San Lucas', artistName='Kevin Kaarl', releaseYear=1, streams=2019, bpm=11, danceability=7}
+Song{trackName='Mary On A Cross', artistName='Ghost', releaseYear=1, streams=2019, bpm=9, danceability=13}
+Song{trackName='Angels Like You', artistName='Miley Cyrus', releaseYear=1, streams=2020, bpm=11, danceability=27}
+Song{trackName='cardigan', artistName='Taylor Swift', releaseYear=1, streams=2020, bpm=7, danceability=24}
+Song{trackName='Heat Waves', artistName='Glass Animals', releaseYear=1, streams=2020, bpm=6, danceability=28}
+Song{trackName='Still With You', artistName='Jung Kook', releaseYear=1, streams=2020, bpm=6, danceability=5}
+Song{trackName='august', artistName='Taylor Swift', releaseYear=1, streams=2020, bpm=7, danceability=24}
+Song{trackName='Save Your Tears', artistName='The Weeknd', releaseYear=1, streams=2020, bpm=3, danceability=20}
+Song{trackName='Shut up My Moms Calling', artistName='Hotel Ugly', releaseYear=1, streams=2020, bpm=2, danceability=10}
+Song{trackName='After Hours', artistName='The Weeknd', releaseYear=1, streams=2020, bpm=2, danceability=19}
+Song{trackName='���������������������', artistName='Fujii Kaze', releaseYear=1, streams=2020, bpm=5, danceability=20}
+Song{trackName='Heather', artistName='Conan Gray', releaseYear=1, streams=2020, bpm=3, danceability=20}
+Song{trackName='MIDDLE OF THE NIGHT', artistName='Elley Duh�', releaseYear=1, streams=2020, bpm=1, danceability=10}
+Song{trackName='Bad Habits', artistName='Ed Sheeran', releaseYear=1, streams=2020, bpm=9, danceability=3}
+Song{trackName='Good Days', artistName='SZA', releaseYear=1, streams=2020, bpm=12, danceability=24}
+Song{trackName='MONTERO (Call Me By Your Name)', artistName='Lil Nas X', releaseYear=1, streams=2020, bpm=9, danceability=18}
+Song{trackName='Todo De Ti', artistName='Rauw Alejandro', releaseYear=1, streams=2020, bpm=11, danceability=2}
+Song{trackName='Life Goes On', artistName='Oliver Tree', releaseYear=1, streams=2020, bpm=7, danceability=17}
+Song{trackName='Dynamite', artistName='BTS', releaseYear=1, streams=2020, bpm=8, danceability=21}
+Song{trackName='Sky', artistName='Playboi Carti', releaseYear=1, streams=2020, bpm=12, danceability=25}
+Song{trackName='The Business', artistName='Ti��', releaseYear=1, streams=2020, bpm=1, danceability=1}
+Song{trackName='positions', artistName='Ariana Grande', releaseYear=1, streams=2020, bpm=10, danceability=23}
+Song{trackName='HEARTBREAK ANNIVERSARY', artistName='Giveon', releaseYear=1, streams=2020, bpm=2, danceability=21}
+Song{trackName='you broke me first', artistName='Tate McRae', releaseYear=1, streams=2020, bpm=4, danceability=17}
+Song{trackName='A Tu Merced', artistName='Bad Bunny', releaseYear=1, streams=2020, bpm=2, danceability=29}
+Song{trackName='La Zona', artistName='Bad Bunny', releaseYear=1, streams=2020, bpm=2, danceability=29}
+Song{trackName='Levitating', artistName='Dua Lipa', releaseYear=1, streams=2020, bpm=3, danceability=27}
+Song{trackName='Demasiadas Mujeres', artistName='C. Tangana', releaseYear=1, streams=2020, bpm=10, danceability=8}
+Song{trackName='Caile', artistName='Luar La L', releaseYear=1, streams=2020, bpm=12, danceability=18}
+Song{trackName='Bones', artistName='Imagine Dragons', releaseYear=1, streams=2021, bpm=3, danceability=11}
+Song{trackName='Por las Noches', artistName='Peso Pluma', releaseYear=1, streams=2021, bpm=6, danceability=11}
+Song{trackName='Ghost', artistName='Justin Bieber', releaseYear=1, streams=2021, bpm=3, danceability=19}
+Song{trackName='You Belong With Me (Taylor���s Ve', artistName='Taylor Swift', releaseYear=1, streams=2021, bpm=4, danceability=9}
+Song{trackName='Until I Found You', artistName='Stephen Sanchez', releaseYear=1, streams=2021, bpm=9, danceability=1}
+Song{trackName='Easy On Me', artistName='Adele', releaseYear=1, streams=2021, bpm=10, danceability=14}
+Song{trackName='The Color Violet', artistName='Tory Lanez', releaseYear=1, streams=2021, bpm=12, danceability=10}
+Song{trackName='Shivers', artistName='Ed Sheeran', releaseYear=1, streams=2021, bpm=9, danceability=9}
+Song{trackName='METAMORPHOSIS', artistName='INTERWORLD', releaseYear=1, streams=2021, bpm=11, danceability=25}
+Song{trackName='La Bebe', artistName='Yng Lvcas', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Yonaguni', artistName='Bad Bunny', releaseYear=1, streams=2021, bpm=6, danceability=4}
+Song{trackName='Woman', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='I Hate U', artistName='SZA', releaseYear=1, streams=2021, bpm=12, danceability=3}
+Song{trackName='���abcdefu', artistName='Gayle', releaseYear=1, streams=2021, bpm=8, danceability=13}
+Song{trackName='Pepas', artistName='Farruko', releaseYear=1, streams=2021, bpm=6, danceability=24}
+Song{trackName='Take My Breath', artistName='The Weeknd', releaseYear=1, streams=2021, bpm=8, danceability=6}
+Song{trackName='good 4 u', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=14}
+Song{trackName='Need To Know', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=11}
+Song{trackName='Surface Pressure', artistName='Jessica Darrow', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='THATS WHAT I WANT', artistName='Lil Nas X', releaseYear=1, streams=2021, bpm=9, danceability=17}
+Song{trackName='MONEY', artistName='Lisa', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Happier Than Ever', artistName='Billie Eilish', releaseYear=1, streams=2021, bpm=7, danceability=30}
+Song{trackName='Toxic', artistName='BoyWithUke', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='drivers license', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=1, danceability=8}
+Song{trackName='All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)', artistName='Taylor Swift', releaseYear=1, streams=2021, bpm=11, danceability=12}
+Song{trackName='Oh My God', artistName='Adele', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='I AM WOMAN', artistName='Emmy Meli', releaseYear=1, streams=2021, bpm=11, danceability=18}
+Song{trackName='It'll Be Okay', artistName='Shawn Mendes', releaseYear=1, streams=2021, bpm=12, danceability=1}
+Song{trackName='Super Gremlin', artistName='Kodak Black', releaseYear=1, streams=2021, bpm=10, danceability=30}
+Song{trackName='Tacones Rojos', artistName='Sebastian Yatra', releaseYear=1, streams=2021, bpm=10, danceability=22}
+Song{trackName='Butter', artistName='BTS', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='deja vu', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=4, danceability=1}
+Song{trackName='TO THE MOON', artistName='Jnr Choi', releaseYear=1, streams=2021, bpm=11, danceability=5}
+Song{trackName='Dos Oruguitas', artistName='Sebastian Yatra', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='Acapulco', artistName='Jason Derulo', releaseYear=1, streams=2021, bpm=9, danceability=1}
+Song{trackName='ELEVEN', artistName='IVE', releaseYear=1, streams=2021, bpm=12, danceability=1}
+Song{trackName='DANCE CRIP', artistName='Trueno', releaseYear=1, streams=2021, bpm=11, danceability=17}
+Song{trackName='happier', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='Praise God', artistName='Kanye West', releaseYear=1, streams=2021, bpm=8, danceability=29}
+Song{trackName='Get Into It (Yuh)', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='Sobrio', artistName='Maluma', releaseYear=1, streams=2021, bpm=7, danceability=8}
+Song{trackName='favorite crime', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='I WANNA BE YOUR SLAVE', artistName='M��ne', releaseYear=1, streams=2021, bpm=3, danceability=19}
+Song{trackName='The Feels', artistName='TWICE', releaseYear=1, streams=2021, bpm=10, danceability=1}
+Song{trackName='2055', artistName='Sleepy hallow', releaseYear=1, streams=2021, bpm=4, danceability=14}
+Song{trackName='Happier Than Ever - Edit', artistName='Billie Eilish', releaseYear=1, streams=2021, bpm=7, danceability=28}
+Song{trackName='Every Summertime', artistName='NIKI', releaseYear=1, streams=2021, bpm=8, danceability=10}
+Song{trackName='Take My Breath', artistName='The Weeknd', releaseYear=1, streams=2021, bpm=8, danceability=6}
+Song{trackName='C��', artistName='Rauw Alejandro', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='Permission to Dance', artistName='BTS', releaseYear=1, streams=2021, bpm=7, danceability=9}
+Song{trackName='RAPSTAR', artistName='Polo G', releaseYear=1, streams=2021, bpm=4, danceability=9}
+Song{trackName='Cigarettes', artistName='Juice WRLD', releaseYear=1, streams=2021, bpm=12, danceability=10}
+Song{trackName='Mujeriego', artistName='Ryan Castro', releaseYear=1, streams=2021, bpm=12, danceability=17}
+Song{trackName='Hrs and Hrs', artistName='Muni Long', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='Christmas Tree', artistName='V', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Envolver', artistName='Anitta', releaseYear=1, streams=2021, bpm=11, danceability=11}
+Song{trackName='Jordan', artistName='Ryan Castro', releaseYear=1, streams=2021, bpm=4, danceability=30}
+Song{trackName='this is what falling in love feels like', artistName='JVKE', releaseYear=1, streams=2021, bpm=9, danceability=3}
+Song{trackName='Mon��y so', artistName='YEAT', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Angel Baby', artistName='Troye Sivan', releaseYear=1, streams=2021, bpm=9, danceability=9}
+Song{trackName='Ain't Shit', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='SloMo', artistName='Chanel', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Flowers', artistName='Lauren Spencer Smith', releaseYear=1, streams=2021, bpm=8, danceability=9}
+Song{trackName='295', artistName='Sidhu Moose Wala', releaseYear=1, streams=2021, bpm=5, danceability=15}
+Song{trackName='As It Was', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=3, danceability=31}
+Song{trackName='Kill Bill', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Anti-Hero', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='I Ain't Worried', artistName='OneRepublic', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='La Bachata', artistName='Manuel Turizo', releaseYear=1, streams=2022, bpm=5, danceability=26}
+Song{trackName='Karma', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='People', artistName='Libianca', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='golden hour', artistName='JVKE', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Here With Me', artistName='d4vd', releaseYear=1, streams=2022, bpm=7, danceability=17}
+Song{trackName='Snooze', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Primera Cita', artistName='Carin Leon', releaseYear=1, streams=2022, bpm=4, danceability=20}
+Song{trackName='Tak Segampang Itu', artistName='Anggi Marito', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Nonsense', artistName='Sabrina Carpenter', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Feliz Cumplea��os Fe', artistName='Feid', releaseYear=1, streams=2022, bpm=8, danceability=19}
+Song{trackName='Romantic Homicide', artistName='d4vd', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='SNAP', artistName='Rosa Linn', releaseYear=1, streams=2022, bpm=3, danceability=19}
+Song{trackName='Titi Me Pregunt�', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Ditto', artistName='NewJeans', releaseYear=1, streams=2022, bpm=12, danceability=19}
+Song{trackName='CHORRITO PA LAS ANIMAS', artistName='Feid', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Players', artistName='Coi Leray', releaseYear=1, streams=2022, bpm=11, danceability=30}
+Song{trackName='Normal', artistName='Feid', releaseYear=1, streams=2022, bpm=7, danceability=8}
+Song{trackName='Bad Habit', artistName='Steve Lacy', releaseYear=1, streams=2022, bpm=6, danceability=29}
+Song{trackName='CUFF IT', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=7, danceability=29}
+Song{trackName='Lavender Haze', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Efecto', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Just Wanna Rock', artistName='Lil Uzi Vert', releaseYear=1, streams=2022, bpm=10, danceability=17}
+Song{trackName='Glimpse of Us', artistName='Joji', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='ceilings', artistName='Lizzy McAlpine', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Slut Me Out', artistName='NLE Choppa', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='PROVENZA', artistName='Karol G', releaseYear=1, streams=2022, bpm=4, danceability=21}
+Song{trackName='Komang', artistName='Raim Laode', releaseYear=1, streams=2022, bpm=8, danceability=16}
+Song{trackName='DESPECH�', artistName='ROSAL�', releaseYear=1, streams=2022, bpm=7, danceability=28}
+Song{trackName='Made You Look', artistName='Meghan Trainor', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='No Se Va', artistName='Grupo Frontera', releaseYear=1, streams=2022, bpm=4, danceability=28}
+Song{trackName='Punto G', artistName='Quevedo', releaseYear=1, streams=2022, bpm=11, danceability=4}
+Song{trackName='Shut Down', artistName='BLACKPINK', releaseYear=1, streams=2022, bpm=9, danceability=16}
+Song{trackName='Late Night Talking', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Le�', artistName='Mar��lia Mendo', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Something in the Orange', artistName='Zach Bryan', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Midnight Rain', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='You Proof', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Malas Decisiones', artistName='Kenia OS', releaseYear=1, streams=2022, bpm=10, danceability=26}
+Song{trackName='Murder In My Mind', artistName='Kordhell', releaseYear=1, streams=2022, bpm=1, danceability=21}
+Song{trackName='Low', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='One Thing At A Time', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='LET GO', artistName='Central Cee', releaseYear=1, streams=2022, bpm=12, danceability=15}
+Song{trackName='SPIT IN MY FACE!', artistName='ThxSoMch', releaseYear=1, streams=2022, bpm=10, danceability=31}
+Song{trackName='Kahani Suno 2.0', artistName='Kaifi Khalil', releaseYear=1, streams=2022, bpm=5, danceability=31}
+Song{trackName='Nobody Gets Me', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Hype Boy', artistName='NewJeans', releaseYear=1, streams=2022, bpm=8, danceability=1}
+Song{trackName='Thought You Should Know', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Zona De Perigo', artistName='Leo Santana', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Lovezinho', artistName='Treyce', releaseYear=1, streams=2022, bpm=7, danceability=28}
+Song{trackName='Neverita', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Vista Al Mar', artistName='Quevedo', releaseYear=1, streams=2022, bpm=9, danceability=8}
+Song{trackName='About Damn Time', artistName='Lizzo', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Maan Meri Jaan', artistName='King', releaseYear=1, streams=2022, bpm=10, danceability=12}
+Song{trackName='Moscow Mule', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='ANTIFRAGILE', artistName='LE SSERAFIM', releaseYear=1, streams=2022, bpm=10, danceability=17}
+Song{trackName='Boy's a liar', artistName='PinkPantheress', releaseYear=1, streams=2022, bpm=11, danceability=30}
+Song{trackName='Shirt', artistName='SZA', releaseYear=1, streams=2022, bpm=10, danceability=28}
+Song{trackName='Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By', artistName='Rihanna', releaseYear=1, streams=2022, bpm=10, danceability=28}
+Song{trackName='STAR WALKIN' (League of Legends Worlds Anthem)', artistName='Lil Nas X', releaseYear=1, streams=2022, bpm=9, danceability=22}
+Song{trackName='Calm Down', artistName='R��', releaseYear=1, streams=2022, bpm=2, danceability=9}
+Song{trackName='TV', artistName='Billie Eilish', releaseYear=1, streams=2022, bpm=7, danceability=21}
+Song{trackName='Pink Venom', artistName='BLACKPINK', releaseYear=1, streams=2022, bpm=8, danceability=19}
+Song{trackName='How Do I Say Goodbye', artistName='Dean Lewis', releaseYear=1, streams=2022, bpm=8, danceability=5}
+Song{trackName='Blind', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Die For You', artistName='Joji', releaseYear=1, streams=2022, bpm=11, danceability=4}
+Song{trackName='Doja', artistName='Central Cee', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='Gatita', artistName='Bellakath', releaseYear=1, streams=2022, bpm=10, danceability=3}
+Song{trackName='Super Freaky Girl', artistName='Nicki Minaj', releaseYear=1, streams=2022, bpm=8, danceability=12}
+Song{trackName='Limbo', artistName='Freddie Dredd', releaseYear=1, streams=2022, bpm=8, danceability=11}
+Song{trackName='KICK BACK', artistName='Kenshi Yonezu', releaseYear=1, streams=2022, bpm=10, danceability=12}
+Song{trackName='Evergreen (You Didn���t Deserve Me A', artistName='Omar Apollo', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Shut up My Moms Calling - (Sped Up)', artistName='Hotel Ugly', releaseYear=1, streams=2022, bpm=9, danceability=14}
+Song{trackName='Seek & Destroy', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Love Language', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Special', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='SOS', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Gone Girl', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='F2F', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Notice Me', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Wild Flower (with youjeen)', artistName='RM', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='SPIT IN MY FACE!', artistName='ThxSoMch', releaseYear=1, streams=2022, bpm=10, danceability=31}
+Song{trackName='Smoking on my Ex Pack', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Conceited', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Maroon', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Bejeweled', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Too Late', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Far', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Sacrifice', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Is There Someone Else?', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Out of Time', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='How Do I Make You Love Me?', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Gasoline', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Less Than Zero', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Best Friends', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Dawn FM', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Starry Eyes', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Don���t Break My', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='A Tale By Quincy', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Every Angel is Terrifying', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='L���', artistName='Stromae', releaseYear=1, streams=2022, bpm=1, danceability=9}
+Song{trackName='Phantom Regret by Jim', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Miserable Man', artistName='David Kushner', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='The Rumbling (TV Size)', artistName='SiM', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Blessed-Cursed', artistName='ENHYPEN', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Polaroid Love', artistName='ENHYPEN', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Stay Alive (Prod. SUGA of BTS)', artistName='Jung Kook', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Boyfriend', artistName='Dove Cameron', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Light Switch', artistName='Charlie Puth', releaseYear=1, streams=2022, bpm=1, danceability=19}
+Song{trackName='she's all i wanna be', artistName='Tate McRae', releaseYear=1, streams=2022, bpm=2, danceability=4}
+Song{trackName='Numb Little Bug', artistName='Em Beihold', releaseYear=1, streams=2022, bpm=1, danceability=28}
+Song{trackName='Worst Day', artistName='Future', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Malvada', artistName='Z�� Fe', releaseYear=1, streams=2022, bpm=1, danceability=28}
+Song{trackName='Una Noche en Medell�', artistName='Cris Mj', releaseYear=1, streams=2022, bpm=1, danceability=21}
+Song{trackName='Starlight', artistName='Dave', releaseYear=1, streams=2022, bpm=3, danceability=3}
+Song{trackName='Hati-Hati di Jalan', artistName='Tulus', releaseYear=1, streams=2022, bpm=3, danceability=3}
+Song{trackName='"I'm Tired - From ""Euphoria"" An Original HBO Series"', artistName='Labrinth', releaseYear=1, streams=2022, bpm=2, danceability=4}
+Song{trackName='Nail Tech', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='Chale', artistName='Eden Mu��', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='DARARI', artistName='Treasure', releaseYear=1, streams=2022, bpm=2, danceability=15}
+Song{trackName='Ya No Somos Ni Seremos', artistName='Christian Nodal', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='O.O', artistName='NMIXX', releaseYear=1, streams=2022, bpm=2, danceability=22}
+Song{trackName='First Class', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Plan A', artistName='Paulo Londra', releaseYear=1, streams=2022, bpm=3, danceability=23}
+Song{trackName='Fuera del mercado', artistName='Danny Ocean', releaseYear=1, streams=2022, bpm=2, danceability=17}
+Song{trackName='When You're Gone', artistName='Shawn Mendes', releaseYear=1, streams=2022, bpm=3, danceability=31}
+Song{trackName='In My Head', artistName='Lil Tjay', releaseYear=1, streams=2022, bpm=4, danceability=1}
+Song{trackName='LOVE DIVE', artistName='IVE', releaseYear=1, streams=2022, bpm=4, danceability=5}
+Song{trackName='Chance', artistName='Paulo Londra', releaseYear=1, streams=2022, bpm=4, danceability=6}
+Song{trackName='Right On', artistName='Lil Baby', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='That's Hilarious', artistName='Charlie Puth', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Soy El Unico', artistName='Yahritza Y Su Esencia', releaseYear=1, streams=2022, bpm=3, danceability=25}
+Song{trackName='RUMBAT�', artistName='Daddy Yankee', releaseYear=1, streams=2022, bpm=3, danceability=25}
+Song{trackName='Fim de Semana no Rio', artistName='teto', releaseYear=1, streams=2022, bpm=3, danceability=30}
+Song{trackName='MANIAC', artistName='Stray Kids', releaseYear=1, streams=2022, bpm=3, danceability=18}
+Song{trackName='Still Life', artistName='BIGBANG', releaseYear=1, streams=2022, bpm=4, danceability=5}
+Song{trackName='N95', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='About Damn Time', artistName='Lizzo', releaseYear=1, streams=2022, bpm=4, danceability=14}
+Song{trackName='Despu��s de la P', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Ratito', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='United In Grief', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Yo No Soy Celoso', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Rich Spirit', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Me Fui de Vacaciones', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Count Me Out', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Dos Mil 16', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Coco', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Worldwide Steppers', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Aguacero', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Verano Sin Ti', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Ens����ame', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='El Apag�', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Dua Lipa', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Agosto', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='In The Stars', artistName='Benson Boone', releaseYear=1, streams=2022, bpm=4, danceability=29}
+Song{trackName='Rich - Interlude', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='SUPERMODEL', artistName='M��ne', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Stefania (Kalush Orchestra)', artistName='KALUSH', releaseYear=1, streams=2022, bpm=3, danceability=10}
+Song{trackName='Thousand Miles', artistName='The Kid Laroi', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Crown', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Auntie Diaries', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='PUFFIN ON ZOOTIEZ', artistName='Future', releaseYear=1, streams=2022, bpm=4, danceability=29}
+Song{trackName='Mirror', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Beautiful Girl', artistName='Luciano', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Savior - Interlude', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='ZOOM', artistName='Jessi', releaseYear=1, streams=2022, bpm=4, danceability=13}
+Song{trackName='FEARLESS', artistName='LE SSERAFIM', releaseYear=1, streams=2022, bpm=5, danceability=2}
+Song{trackName='10 Things I Hate About You', artistName='Leah Kate', releaseYear=1, streams=2022, bpm=3, danceability=23}
+Song{trackName='SPACE MAN', artistName='Sam Ryder', releaseYear=1, streams=2022, bpm=2, danceability=22}
+Song{trackName='The Heart Part 5', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=8}
+Song{trackName='This Love (Taylor���s Ve', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Yet To Come', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Run BTS', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Music For a Sushi Restaurant', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Matilda', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='For Youth', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Daylight', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Vegas (From the Original Motion Picture Soundtrack ELVIS)', artistName='Doja Cat', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Born Singer', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Little Freak', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Satellite', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Love Of My Life', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Grapejuice', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='So Good', artistName='Halsey', releaseYear=1, streams=2022, bpm=6, danceability=9}
+Song{trackName='Keep Driving', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Cinema', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Hold My Hand', artistName='Lady Gaga', releaseYear=1, streams=2022, bpm=5, danceability=3}
+Song{trackName='Daydreaming', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Antes de Perderte', artistName='Duki', releaseYear=1, streams=2022, bpm=6, danceability=2}
+Song{trackName='Boyfriends', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Tak Ingin Usai', artistName='Keisya Levronka', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='En El Radio Un Cochinero', artistName='Victor Cibrian', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='BREAK MY SOUL', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=6, danceability=21}
+Song{trackName='Massive', artistName='Drake', releaseYear=1, streams=2022, bpm=6, danceability=17}
+Song{trackName='Betty (Get Money)', artistName='Yung Gravy', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Ojos Marrones', artistName='Lasso', releaseYear=1, streams=2022, bpm=2, danceability=6}
+Song{trackName='POP!', artistName='Nayeon', releaseYear=1, streams=2022, bpm=6, danceability=24}
+Song{trackName='MORE', artistName='j-hope', releaseYear=1, streams=2022, bpm=7, danceability=1}
+Song{trackName='Last Last', artistName='Burna Boy', releaseYear=1, streams=2022, bpm=5, danceability=12}
+Song{trackName='SNAP', artistName='Rosa Linn', releaseYear=1, streams=2022, bpm=3, danceability=19}
+Song{trackName='Sticky', artistName='Drake', releaseYear=1, streams=2022, bpm=6, danceability=17}
+Song{trackName='die first', artistName='Nessa Barrett', releaseYear=1, streams=2022, bpm=6, danceability=24}
+Song{trackName='Afraid To Feel', artistName='LF System', releaseYear=1, streams=2022, bpm=5, danceability=2}
+Song{trackName='c��mo dormi', artistName='Rels B', releaseYear=1, streams=2022, bpm=8, danceability=4}
+Song{trackName='Si Te La Encuentras Por Ah�', artistName='Feid', releaseYear=1, streams=2022, bpm=8, danceability=5}
+Song{trackName='GIVENCHY', artistName='Duki', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='ALIEN SUPERSTAR', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=7, danceability=29}
+Song{trackName='Attention', artistName='NewJeans', releaseYear=1, streams=2022, bpm=8, danceability=1}
+Song{trackName='THE SHADE', artistName='Rex Orange County', releaseYear=1, streams=2022, bpm=3, danceability=11}
+Song{trackName='"Come Back Home - From ""Purple Hearts"""', artistName='Sofia Carson', releaseYear=1, streams=2022, bpm=7, danceability=12}
+Song{trackName='LALA', artistName='Myke Towers', releaseYear=1, streams=2023, bpm=3, danceability=23}
+Song{trackName='vampire', artistName='Olivia Rodrigo', releaseYear=1, streams=2023, bpm=6, danceability=30}
+Song{trackName='WHERE SHE GOES', artistName='Bad Bunny', releaseYear=1, streams=2023, bpm=5, danceability=18}
+Song{trackName='Columbia', artistName='Quevedo', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='fukumean', artistName='Gunna', releaseYear=1, streams=2023, bpm=5, danceability=15}
+Song{trackName='Super Shy', artistName='NewJeans', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Flowers', artistName='Miley Cyrus', releaseYear=1, streams=2023, bpm=1, danceability=12}
+Song{trackName='Daylight', artistName='David Kushner', releaseYear=1, streams=2023, bpm=4, danceability=14}
+Song{trackName='Cupid - Twin Ver.', artistName='Fifty Fifty', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='"What Was I Made For? [From The Motion Picture ""Barbie""]"', artistName='Billie Eilish', releaseYear=1, streams=2023, bpm=7, danceability=13}
+Song{trackName='Like Crazy', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='I Can See You (Taylor���s Version) (From The', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='SABOR FRESA', artistName='Fuerza Regida', releaseYear=1, streams=2023, bpm=6, danceability=22}
+Song{trackName='Last Night', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Dance The Night (From Barbie The Album)', artistName='Dua Lipa', releaseYear=1, streams=2023, bpm=5, danceability=25}
+Song{trackName='Rush', artistName='Troye Sivan', releaseYear=1, streams=2023, bpm=7, danceability=13}
+Song{trackName='TQM', artistName='Fuerza Regida', releaseYear=1, streams=2023, bpm=5, danceability=19}
+Song{trackName='AMARGURA', artistName='Karol G', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='(It Goes Like) Nanana - Edit', artistName='Peggy Gou', releaseYear=1, streams=2023, bpm=6, danceability=15}
+Song{trackName='Moonlight', artistName='Kali Uchis', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='S91', artistName='Karol G', releaseYear=1, streams=2023, bpm=7, danceability=14}
+Song{trackName='Overdrive', artistName='Post Malone', releaseYear=1, streams=2023, bpm=7, danceability=14}
+Song{trackName='Enchanted (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='CORAZ��N VA', artistName='Maria Becerra', releaseYear=1, streams=2023, bpm=6, danceability=22}
+Song{trackName='Back To December (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Fast Car', artistName='Luke Combs', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='What It Is (Solo Version)', artistName='Doechii', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Say Yes To Heaven', artistName='Lana Del Rey', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Take Two', artistName='BTS', releaseYear=1, streams=2023, bpm=6, danceability=9}
+Song{trackName='Chemical', artistName='Post Malone', releaseYear=1, streams=2023, bpm=4, danceability=14}
+Song{trackName='New Jeans', artistName='NewJeans', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Mine (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Tattoo', artistName='Loreen', releaseYear=1, streams=2023, bpm=2, danceability=25}
+Song{trackName='Queencard', artistName='(G)I-DLE', releaseYear=1, streams=2023, bpm=5, danceability=15}
+Song{trackName='OMG', artistName='NewJeans', releaseYear=1, streams=2023, bpm=1, danceability=2}
+Song{trackName='El Gordo Trae El Mando', artistName='Chino Pacas', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Mi Bello Angel', artistName='Natanael Cano', releaseYear=1, streams=2023, bpm=6, danceability=30}
+Song{trackName='Bye', artistName='Peso Pluma', releaseYear=1, streams=2023, bpm=5, danceability=26}
+Song{trackName='������������', artistName='YOASOBI', releaseYear=1, streams=2023, bpm=4, danceability=12}
+Song{trackName='Cheques', artistName='Shubh', releaseYear=1, streams=2023, bpm=5, danceability=19}
+Song{trackName='Better Than Revenge (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Acr��s', artistName='Shakira', releaseYear=1, streams=2023, bpm=5, danceability=11}
+Song{trackName='S-Class', artistName='Stray Kids', releaseYear=1, streams=2023, bpm=6, danceability=2}
+Song{trackName='Hits Different', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=5, danceability=26}
+Song{trackName='FLOWER', artistName='JISOO', releaseYear=1, streams=2023, bpm=3, danceability=31}
+Song{trackName='Eyes Closed', artistName='Ed Sheeran', releaseYear=1, streams=2023, bpm=3, danceability=23}
+Song{trackName='Bite Me', artistName='ENHYPEN', releaseYear=1, streams=2023, bpm=5, danceability=22}
+Song{trackName='Search & Rescue', artistName='Drake', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Erro Gostoso - Ao Vivo', artistName='Simone Mendes', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Cupido', artistName='Tini', releaseYear=1, streams=2023, bpm=2, danceability=14}
+Song{trackName='Oi Balde - Ao Vivo', artistName='Z�� Neto & Crist', releaseYear=1, streams=2023, bpm=2, danceability=14}
+Song{trackName='Curtains', artistName='Ed Sheeran', releaseYear=1, streams=2023, bpm=5, danceability=5}
+Song{trackName='Haegeum', artistName='Agust D', releaseYear=1, streams=2023, bpm=4, danceability=21}
+Song{trackName='MIENTRAS ME CURO DEL CORA', artistName='Karol G', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='Never Felt So Alone', artistName='Labrinth', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Cupid', artistName='Fifty Fifty', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='I AM', artistName='IVE', releaseYear=1, streams=2023, bpm=4, danceability=10}
+Song{trackName='Super', artistName='SEVENTEEN', releaseYear=1, streams=2023, bpm=4, danceability=24}
+Song{trackName='Set Me Free Pt.2', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Like Crazy (English Version)', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='REMIX EXCLUSIVO', artistName='Feid', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='HAPPY', artistName='NF', releaseYear=1, streams=2023, bpm=3, danceability=25}
+Song{trackName='VOID', artistName='Melanie Martinez', releaseYear=1, streams=2023, bpm=3, danceability=29}
+Song{trackName='If We Ever Broke Up', artistName='Mae Stephens', releaseYear=1, streams=2023, bpm=2, danceability=10}
+Song{trackName='Peaches (from The Super Mario Bros. Movie)', artistName='Jack Black', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Ain���t Tha', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Thinkin��� B', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Everything I Love', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Heaven', artistName='Niall Horan', releaseYear=1, streams=2023, bpm=2, danceability=17}
+Song{trackName='Sial', artistName='Mahalini', releaseYear=1, streams=2023, bpm=1, danceability=23}
+Song{trackName='I Wrote The Book', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Red Ruby Da Sleeze', artistName='Nicki Minaj', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='���98 Braves', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='WANDA', artistName='Quevedo', releaseYear=1, streams=2023, bpm=1, danceability=20}
+Song{trackName='Love Again', artistName='The Kid Laroi', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Born With A Beer In My Hand', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Devil Don���', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='LLYLM', artistName='ROSAL�', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='TRUSTFALL', artistName='P!nk', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Sugar Rush Ride', artistName='TOMORROW X TOGETHER', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Shuffled List after sorting
+Song{trackName='The Christmas Song (Merry Christmas To You) - Remastered 1999', artistName='Nat King Cole', releaseYear=1, streams=1946, bpm=11, danceability=1}
+Song{trackName='A Holly Jolly Christmas - Single Version', artistName='Burl Ives', releaseYear=1, streams=1952, bpm=1, danceability=1}
+Song{trackName='Jingle Bells - Remastered 1999', artistName='Frank Sinatra', releaseYear=1, streams=1957, bpm=1, danceability=1}
+Song{trackName='Jingle Bell Rock', artistName='Bobby Helms', releaseYear=1, streams=1957, bpm=1, danceability=1}
+Song{trackName='Run Rudolph Run - Single Version', artistName='Chuck Berry', releaseYear=1, streams=1958, bpm=1, danceability=1}
+Song{trackName='Rockin' Around The Christmas Tree', artistName='Brenda Lee', releaseYear=1, streams=1958, bpm=1, danceability=1}
+Song{trackName='Deck The Hall - Remastered 1999', artistName='Nat King Cole', releaseYear=1, streams=1959, bpm=1, danceability=1}
+Song{trackName='Let It Snow! Let It Snow! Let It Snow!', artistName='Dean Martin', releaseYear=1, streams=1959, bpm=11, danceability=16}
+Song{trackName='Sleigh Ride', artistName='The Ronettes', releaseYear=1, streams=1963, bpm=11, danceability=22}
+Song{trackName='Christmas (Baby Please Come Home)', artistName='Darlene Love', releaseYear=1, streams=1963, bpm=11, danceability=22}
+Song{trackName='It's the Most Wonderful Time of the Year', artistName='Andy Williams', releaseYear=1, streams=1963, bpm=10, danceability=14}
+Song{trackName='Have You Ever Seen The Rain?', artistName='Creedence Clearwater Revival', releaseYear=1, streams=1968, bpm=7, danceability=1}
+Song{trackName='Love Grows (Where My Rosemary Goes)', artistName='Edison Lighthouse', releaseYear=1, streams=1970, bpm=1, danceability=1}
+Song{trackName='Feliz Navidad', artistName='Jos�� Felic', releaseYear=1, streams=1970, bpm=11, danceability=1}
+Song{trackName='Dream On', artistName='Aerosmith', releaseYear=1, streams=1973, bpm=1, danceability=5}
+Song{trackName='Riptide', artistName='Vance Joy', releaseYear=1, streams=1975, bpm=1, danceability=1}
+Song{trackName='Bohemian Rhapsody - Remastered 2011', artistName='Queen', releaseYear=1, streams=1975, bpm=10, danceability=31}
+Song{trackName='Wonderful Christmastime - Edited Version / Remastered 2011', artistName='Paul McCartney', releaseYear=1, streams=1979, bpm=11, danceability=16}
+Song{trackName='Pass The Dutchie', artistName='Musical Youth', releaseYear=1, streams=1982, bpm=1, danceability=1}
+Song{trackName='Every Breath You Take - Remastered 2003', artistName='The Police', releaseYear=1, streams=1983, bpm=1, danceability=6}
+Song{trackName='Last Christmas', artistName='Wham!', releaseYear=1, streams=1984, bpm=1, danceability=1}
+Song{trackName='Take On Me', artistName='a-ha', releaseYear=1, streams=1984, bpm=10, danceability=19}
+Song{trackName='Merry Christmas Everyone', artistName='Shakin' Stevens', releaseYear=1, streams=1984, bpm=1, danceability=1}
+Song{trackName='Do They Know It's Christmas? - 1984 Version', artistName='Band Aid', releaseYear=1, streams=1984, bpm=11, danceability=25}
+Song{trackName='Running Up That Hill (A Deal With God)', artistName='Kate Bush', releaseYear=1, streams=1985, bpm=9, danceability=16}
+Song{trackName='Everybody Wants To Rule The World', artistName='Tears For Fears', releaseYear=1, streams=1985, bpm=2, danceability=17}
+Song{trackName='Driving Home for Christmas - 2019 Remaster', artistName='Chris Rea', releaseYear=1, streams=1986, bpm=1, danceability=1}
+Song{trackName='Master of Puppets (Remastered)', artistName='Metallica', releaseYear=1, streams=1986, bpm=3, danceability=3}
+Song{trackName='Sweet Child O' Mine', artistName='Guns N' Roses', releaseYear=1, streams=1987, bpm=1, danceability=1}
+Song{trackName='Something In The Way - Remastered 2021', artistName='Nirvana', releaseYear=1, streams=1991, bpm=9, danceability=24}
+Song{trackName='Smells Like Teen Spirit - Remastered 2021', artistName='Nirvana', releaseYear=1, streams=1991, bpm=9, danceability=10}
+Song{trackName='Creep', artistName='Radiohead', releaseYear=1, streams=1992, bpm=9, danceability=21}
+Song{trackName='All I Want for Christmas Is You', artistName='Mariah Carey', releaseYear=1, streams=1994, bpm=10, danceability=28}
+Song{trackName='Cupid ��� Twin Ver. (FIFTY FIFTY) ��� Spe', artistName='sped up 8282', releaseYear=1, streams=1997, bpm=1, danceability=1}
+Song{trackName='Iris', artistName='The Goo Goo Dolls', releaseYear=1, streams=1998, bpm=3, danceability=31}
+Song{trackName='Yellow', artistName='Chris Molitor', releaseYear=1, streams=1999, bpm=1, danceability=1}
+Song{trackName='In The End', artistName='Linkin Park', releaseYear=1, streams=2000, bpm=10, danceability=24}
+Song{trackName='My Only Wish (This Year)', artistName='Britney Spears', releaseYear=1, streams=2000, bpm=11, danceability=7}
+Song{trackName='The Real Slim Shady', artistName='Eminem', releaseYear=1, streams=2000, bpm=1, danceability=1}
+Song{trackName='In Da Club', artistName='50 Cent', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Lose Yourself - Soundtrack Version', artistName='Eminem', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Without Me', artistName='Eminem', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Numb', artistName='Linkin Park', releaseYear=1, streams=2003, bpm=3, danceability=24}
+Song{trackName='Mr. Brightside', artistName='The Killers', releaseYear=1, streams=2003, bpm=9, danceability=23}
+Song{trackName='Gasolina', artistName='Daddy Yankee', releaseYear=1, streams=2004, bpm=7, danceability=13}
+Song{trackName='Somewhere Only We Know', artistName='Keane', releaseYear=1, streams=2004, bpm=1, danceability=1}
+Song{trackName='Mockingbird', artistName='Eminem', releaseYear=1, streams=2004, bpm=1, danceability=1}
+Song{trackName='Yo Voy (feat. Daddy Yankee)', artistName='Zion & Lennox', releaseYear=1, streams=2004, bpm=5, danceability=4}
+Song{trackName='505', artistName='Arctic Monkeys', releaseYear=1, streams=2007, bpm=4, danceability=20}
+Song{trackName='Viva La Vida', artistName='Coldplay', releaseYear=1, streams=2008, bpm=1, danceability=1}
+Song{trackName='Heartless', artistName='Kanye West', releaseYear=1, streams=2008, bpm=1, danceability=1}
+Song{trackName='Sure Thing', artistName='Miguel', releaseYear=1, streams=2010, bpm=5, danceability=25}
+Song{trackName='Es un Secreto', artistName='Plan B', releaseYear=1, streams=2010, bpm=7, danceability=20}
+Song{trackName='Rolling in the Deep', artistName='Adele', releaseYear=1, streams=2010, bpm=11, danceability=29}
+Song{trackName='Talking To The Moon', artistName='Bruno Mars', releaseYear=1, streams=2010, bpm=10, danceability=4}
+Song{trackName='Enchanted', artistName='Taylor Swift', releaseYear=1, streams=2010, bpm=1, danceability=1}
+Song{trackName='Just The Way You Are', artistName='Bruno Mars', releaseYear=1, streams=2010, bpm=1, danceability=1}
+Song{trackName='Radio', artistName='Lana Del Rey', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='It's Beginning To Look A Lot Like Christmas', artistName='Michael Bubl�', releaseYear=1, streams=2011, bpm=10, danceability=14}
+Song{trackName='Mistletoe', artistName='Justin Bieber', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Holly Jolly Christmas', artistName='Michael Bubl�', releaseYear=1, streams=2011, bpm=10, danceability=14}
+Song{trackName='Set Fire to the Rain', artistName='Adele', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Summertime Sadness', artistName='Lana Del Rey', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Bloody Mary', artistName='Lady Gaga', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Demons', artistName='Imagine Dragons', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='Lost', artistName='Frank Ocean', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='When I Was Your Man', artistName='Bruno Mars', releaseYear=1, streams=2012, bpm=12, danceability=5}
+Song{trackName='Lover', artistName='Taylor Swift', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='Another Love', artistName='Tom Odell', releaseYear=1, streams=2012, bpm=10, danceability=15}
+Song{trackName='Locked Out Of Heaven', artistName='Bruno Mars', releaseYear=1, streams=2012, bpm=12, danceability=5}
+Song{trackName='Sweater Weather', artistName='The Neighbourhood', releaseYear=1, streams=2012, bpm=5, danceability=14}
+Song{trackName='Santa Tell Me', artistName='Ariana Grande', releaseYear=1, streams=2013, bpm=12, danceability=13}
+Song{trackName='All of Me', artistName='John Legend', releaseYear=1, streams=2013, bpm=8, danceability=1}
+Song{trackName='Why'd You Only Call Me When You're High?', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Ginseng Strip 2002', artistName='Yung Lean', releaseYear=1, streams=2013, bpm=8, danceability=16}
+Song{trackName='Do I Wanna Know?', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='I Wanna Be Yours', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Take Me To Church', artistName='Hozier', releaseYear=1, streams=2013, bpm=9, danceability=13}
+Song{trackName='Underneath the Tree', artistName='Kelly Clarkson', releaseYear=1, streams=2013, bpm=10, danceability=25}
+Song{trackName='Counting Stars', artistName='OneRepublic', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Wake Me Up - Radio Edit', artistName='Avicii', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Photograph', artistName='Ed Sheeran', releaseYear=1, streams=2014, bpm=6, danceability=20}
+Song{trackName='I Love You So', artistName='The Walters', releaseYear=1, streams=2014, bpm=11, danceability=28}
+Song{trackName='Shake It Off', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Night Changes', artistName='One Direction', releaseYear=1, streams=2014, bpm=11, danceability=17}
+Song{trackName='Blank Space', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Lovers Rock', artistName='TV Girl', releaseYear=1, streams=2014, bpm=6, danceability=5}
+Song{trackName='After Dark', artistName='Mr.Kitty', releaseYear=1, streams=2014, bpm=8, danceability=8}
+Song{trackName='I'm Not The Only One', artistName='Sam Smith', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='No Role Modelz', artistName='J. Cole', releaseYear=1, streams=2014, bpm=12, danceability=9}
+Song{trackName='Thinking Out Loud', artistName='Ed Sheeran', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Only Love Can Hurt Like This', artistName='Paloma Faith', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='The Nights', artistName='Avicii', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Style', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='The Night We Met', artistName='Lord Huron', releaseYear=1, streams=2015, bpm=2, danceability=2}
+Song{trackName='Makeba', artistName='Jain', releaseYear=1, streams=2015, bpm=6, danceability=22}
+Song{trackName='Love Yourself', artistName='Justin Bieber', releaseYear=1, streams=2015, bpm=11, danceability=9}
+Song{trackName='Daddy Issues', artistName='The Neighbourhood', releaseYear=1, streams=2015, bpm=10, danceability=30}
+Song{trackName='Wait a Minute!', artistName='Willow', releaseYear=1, streams=2015, bpm=1, danceability=11}
+Song{trackName='The Hills', artistName='The Weeknd', releaseYear=1, streams=2015, bpm=5, danceability=27}
+Song{trackName='Freaks', artistName='Surf Curse', releaseYear=1, streams=2015, bpm=5, danceability=10}
+Song{trackName='Atlantis', artistName='Seafret', releaseYear=1, streams=2015, bpm=4, danceability=22}
+Song{trackName='Alien Blues', artistName='Vundabar', releaseYear=1, streams=2015, bpm=7, danceability=24}
+Song{trackName='Cool for the Summer', artistName='Demi Lovato', releaseYear=1, streams=2015, bpm=1, danceability=1}
+Song{trackName='Space Song', artistName='Beach House', releaseYear=1, streams=2015, bpm=1, danceability=1}
+Song{trackName='Notion', artistName='The Rare Occasions', releaseYear=1, streams=2016, bpm=8, danceability=5}
+Song{trackName='House Of Memories', artistName='Panic! At The Disco', releaseYear=1, streams=2016, bpm=1, danceability=15}
+Song{trackName='There's Nothing Holdin' Me Back', artistName='Shawn Mendes', releaseYear=1, streams=2016, bpm=9, danceability=23}
+Song{trackName='Unstoppable', artistName='Sia', releaseYear=1, streams=2016, bpm=1, danceability=21}
+Song{trackName='Pope Is a Rockstar', artistName='SALES', releaseYear=1, streams=2016, bpm=4, danceability=20}
+Song{trackName='Me and Your Mama', artistName='Childish Gambino', releaseYear=1, streams=2016, bpm=11, danceability=10}
+Song{trackName='Say You Won't Let Go', artistName='James Arthur', releaseYear=1, streams=2016, bpm=9, danceability=9}
+Song{trackName='Die For You', artistName='The Weeknd', releaseYear=1, streams=2016, bpm=11, danceability=24}
+Song{trackName='Reminder', artistName='The Weeknd', releaseYear=1, streams=2016, bpm=11, danceability=25}
+Song{trackName='Pink + White', artistName='Frank Ocean', releaseYear=1, streams=2016, bpm=8, danceability=20}
+Song{trackName='Swim', artistName='Chase Atlantic', releaseYear=1, streams=2017, bpm=10, danceability=4}
+Song{trackName='Dark Red', artistName='Steve Lacy', releaseYear=1, streams=2017, bpm=2, danceability=20}
+Song{trackName='Infinity', artistName='Jaymes Young', releaseYear=1, streams=2017, bpm=6, danceability=23}
+Song{trackName='Perfect', artistName='Ed Sheeran', releaseYear=1, streams=2017, bpm=1, danceability=1}
+Song{trackName='Bored', artistName='Billie Eilish', releaseYear=1, streams=2017, bpm=3, danceability=30}
+Song{trackName='Believer', artistName='Imagine Dragons', releaseYear=1, streams=2017, bpm=1, danceability=31}
+Song{trackName='Dandelions', artistName='Ruth B.', releaseYear=1, streams=2017, bpm=4, danceability=28}
+Song{trackName='Good Looking', artistName='Suki Waterhouse', releaseYear=1, streams=2017, bpm=10, danceability=20}
+Song{trackName='Lucid Dreams', artistName='Juice WRLD', releaseYear=1, streams=2017, bpm=6, danceability=15}
+Song{trackName='Beggin', artistName='M��ne', releaseYear=1, streams=2017, bpm=12, danceability=8}
+Song{trackName='Don���t Bl', artistName='Taylor Swift', releaseYear=1, streams=2017, bpm=11, danceability=8}
+Song{trackName='HUMBLE.', artistName='Kendrick Lamar', releaseYear=1, streams=2017, bpm=3, danceability=30}
+Song{trackName='Apocalypse', artistName='Cigarettes After Sex', releaseYear=1, streams=2017, bpm=3, danceability=21}
+Song{trackName='Shape of You', artistName='Ed Sheeran', releaseYear=1, streams=2017, bpm=1, danceability=6}
+Song{trackName='Snowman', artistName='Sia', releaseYear=1, streams=2017, bpm=1, danceability=1}
+Song{trackName='Revenge', artistName='XXXTENTACION', releaseYear=1, streams=2017, bpm=8, danceability=25}
+Song{trackName='Let Me Down Slowly', artistName='Alec Benjamin', releaseYear=1, streams=2018, bpm=5, danceability=25}
+Song{trackName='SLOW DANCING IN THE DARK', artistName='Joji', releaseYear=1, streams=2018, bpm=9, danceability=12}
+Song{trackName='Someone You Loved', artistName='Lewis Capaldi', releaseYear=1, streams=2018, bpm=11, danceability=8}
+Song{trackName='Call Out My Name', artistName='The Weeknd', releaseYear=1, streams=2018, bpm=3, danceability=29}
+Song{trackName='Hope', artistName='XXXTENTACION', releaseYear=1, streams=2018, bpm=3, danceability=16}
+Song{trackName='Softcore', artistName='The Neighbourhood', releaseYear=1, streams=2018, bpm=3, danceability=9}
+Song{trackName='Still Don't Know My Name', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Mount Everest', artistName='Labrinth', releaseYear=1, streams=2019, bpm=6, danceability=21}
+Song{trackName='Don't Start Now', artistName='Dua Lipa', releaseYear=1, streams=2019, bpm=10, danceability=31}
+Song{trackName='Dance Monkey', artistName='Tones and I', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Adore You', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=6}
+Song{trackName='Watermelon Sugar', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=11, danceability=17}
+Song{trackName='Memories', artistName='Maroon 5', releaseYear=1, streams=2019, bpm=9, danceability=20}
+Song{trackName='Forever', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Golden', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=13}
+Song{trackName='Cruel Summer', artistName='Taylor Swift', releaseYear=1, streams=2019, bpm=8, danceability=23}
+Song{trackName='Circles', artistName='Post Malone', releaseYear=1, streams=2019, bpm=8, danceability=30}
+Song{trackName='Blinding Lights', artistName='The Weeknd', releaseYear=1, streams=2019, bpm=11, danceability=29}
+Song{trackName='Arcade', artistName='Duncan Laurence', releaseYear=1, streams=2019, bpm=3, danceability=7}
+Song{trackName='Before You Go', artistName='Lewis Capaldi', releaseYear=1, streams=2019, bpm=11, danceability=1}
+Song{trackName='Mary On A Cross', artistName='Ghost', releaseYear=1, streams=2019, bpm=9, danceability=13}
+Song{trackName='San Lucas', artistName='Kevin Kaarl', releaseYear=1, streams=2019, bpm=11, danceability=7}
+Song{trackName='love nwantiti (ah ah ah)', artistName='Ckay', releaseYear=1, streams=2019, bpm=7, danceability=26}
+Song{trackName='Streets', artistName='Doja Cat', releaseYear=1, streams=2019, bpm=11, danceability=7}
+Song{trackName='Formula', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='When I R.I.P.', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Falling', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=13}
+Song{trackName='Car's Outside', artistName='James Arthur', releaseYear=1, streams=2019, bpm=10, danceability=18}
+Song{trackName='Heart To Heart', artistName='Mac DeMarco', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Astronaut In The Ocean', artistName='Masked Wolf', releaseYear=1, streams=2019, bpm=1, danceability=1}
+Song{trackName='Those Eyes', artistName='New West', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='All Of The Girls You Loved Before', artistName='Taylor Swift', releaseYear=1, streams=2019, bpm=8, danceability=23}
+Song{trackName='Under The Influence', artistName='Chris Brown', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Heat Waves', artistName='Glass Animals', releaseYear=1, streams=2020, bpm=6, danceability=28}
+Song{trackName='Dynamite', artistName='BTS', releaseYear=1, streams=2020, bpm=8, danceability=21}
+Song{trackName='Sky', artistName='Playboi Carti', releaseYear=1, streams=2020, bpm=12, danceability=25}
+Song{trackName='Bad Habits', artistName='Ed Sheeran', releaseYear=1, streams=2020, bpm=9, danceability=3}
+Song{trackName='After Hours', artistName='The Weeknd', releaseYear=1, streams=2020, bpm=2, danceability=19}
+Song{trackName='cardigan', artistName='Taylor Swift', releaseYear=1, streams=2020, bpm=7, danceability=24}
+Song{trackName='���������������������', artistName='Fujii Kaze', releaseYear=1, streams=2020, bpm=5, danceability=20}
+Song{trackName='Life Goes On', artistName='Oliver Tree', releaseYear=1, streams=2020, bpm=7, danceability=17}
+Song{trackName='positions', artistName='Ariana Grande', releaseYear=1, streams=2020, bpm=10, danceability=23}
+Song{trackName='Heather', artistName='Conan Gray', releaseYear=1, streams=2020, bpm=3, danceability=20}
+Song{trackName='A Tu Merced', artistName='Bad Bunny', releaseYear=1, streams=2020, bpm=2, danceability=29}
+Song{trackName='Todo De Ti', artistName='Rauw Alejandro', releaseYear=1, streams=2020, bpm=11, danceability=2}
+Song{trackName='august', artistName='Taylor Swift', releaseYear=1, streams=2020, bpm=7, danceability=24}
+Song{trackName='Save Your Tears', artistName='The Weeknd', releaseYear=1, streams=2020, bpm=3, danceability=20}
+Song{trackName='Still With You', artistName='Jung Kook', releaseYear=1, streams=2020, bpm=6, danceability=5}
+Song{trackName='MONTERO (Call Me By Your Name)', artistName='Lil Nas X', releaseYear=1, streams=2020, bpm=9, danceability=18}
+Song{trackName='you broke me first', artistName='Tate McRae', releaseYear=1, streams=2020, bpm=4, danceability=17}
+Song{trackName='HEARTBREAK ANNIVERSARY', artistName='Giveon', releaseYear=1, streams=2020, bpm=2, danceability=21}
+Song{trackName='Demasiadas Mujeres', artistName='C. Tangana', releaseYear=1, streams=2020, bpm=10, danceability=8}
+Song{trackName='Angels Like You', artistName='Miley Cyrus', releaseYear=1, streams=2020, bpm=11, danceability=27}
+Song{trackName='La Zona', artistName='Bad Bunny', releaseYear=1, streams=2020, bpm=2, danceability=29}
+Song{trackName='The Business', artistName='Ti��', releaseYear=1, streams=2020, bpm=1, danceability=1}
+Song{trackName='Shut up My Moms Calling', artistName='Hotel Ugly', releaseYear=1, streams=2020, bpm=2, danceability=10}
+Song{trackName='MIDDLE OF THE NIGHT', artistName='Elley Duh�', releaseYear=1, streams=2020, bpm=1, danceability=10}
+Song{trackName='Good Days', artistName='SZA', releaseYear=1, streams=2020, bpm=12, danceability=24}
+Song{trackName='Caile', artistName='Luar La L', releaseYear=1, streams=2020, bpm=12, danceability=18}
+Song{trackName='Levitating', artistName='Dua Lipa', releaseYear=1, streams=2020, bpm=3, danceability=27}
+Song{trackName='I Hate U', artistName='SZA', releaseYear=1, streams=2021, bpm=12, danceability=3}
+Song{trackName='drivers license', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=1, danceability=8}
+Song{trackName='Angel Baby', artistName='Troye Sivan', releaseYear=1, streams=2021, bpm=9, danceability=9}
+Song{trackName='2055', artistName='Sleepy hallow', releaseYear=1, streams=2021, bpm=4, danceability=14}
+Song{trackName='Get Into It (Yuh)', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='Ain't Shit', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='THATS WHAT I WANT', artistName='Lil Nas X', releaseYear=1, streams=2021, bpm=9, danceability=17}
+Song{trackName='favorite crime', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='good 4 u', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=14}
+Song{trackName='Toxic', artistName='BoyWithUke', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Ghost', artistName='Justin Bieber', releaseYear=1, streams=2021, bpm=3, danceability=19}
+Song{trackName='The Color Violet', artistName='Tory Lanez', releaseYear=1, streams=2021, bpm=12, danceability=10}
+Song{trackName='I WANNA BE YOUR SLAVE', artistName='M��ne', releaseYear=1, streams=2021, bpm=3, danceability=19}
+Song{trackName='Christmas Tree', artistName='V', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Butter', artistName='BTS', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='Por las Noches', artistName='Peso Pluma', releaseYear=1, streams=2021, bpm=6, danceability=11}
+Song{trackName='Mon��y so', artistName='YEAT', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Pepas', artistName='Farruko', releaseYear=1, streams=2021, bpm=6, danceability=24}
+Song{trackName='Super Gremlin', artistName='Kodak Black', releaseYear=1, streams=2021, bpm=10, danceability=30}
+Song{trackName='Surface Pressure', artistName='Jessica Darrow', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='DANCE CRIP', artistName='Trueno', releaseYear=1, streams=2021, bpm=11, danceability=17}
+Song{trackName='deja vu', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=4, danceability=1}
+Song{trackName='TO THE MOON', artistName='Jnr Choi', releaseYear=1, streams=2021, bpm=11, danceability=5}
+Song{trackName='Dos Oruguitas', artistName='Sebastian Yatra', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='MONEY', artistName='Lisa', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Permission to Dance', artistName='BTS', releaseYear=1, streams=2021, bpm=7, danceability=9}
+Song{trackName='Take My Breath', artistName='The Weeknd', releaseYear=1, streams=2021, bpm=8, danceability=6}
+Song{trackName='METAMORPHOSIS', artistName='INTERWORLD', releaseYear=1, streams=2021, bpm=11, danceability=25}
+Song{trackName='Bones', artistName='Imagine Dragons', releaseYear=1, streams=2021, bpm=3, danceability=11}
+Song{trackName='���abcdefu', artistName='Gayle', releaseYear=1, streams=2021, bpm=8, danceability=13}
+Song{trackName='Shivers', artistName='Ed Sheeran', releaseYear=1, streams=2021, bpm=9, danceability=9}
+Song{trackName='RAPSTAR', artistName='Polo G', releaseYear=1, streams=2021, bpm=4, danceability=9}
+Song{trackName='Oh My God', artistName='Adele', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='Hrs and Hrs', artistName='Muni Long', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='Happier Than Ever', artistName='Billie Eilish', releaseYear=1, streams=2021, bpm=7, danceability=30}
+Song{trackName='Tacones Rojos', artistName='Sebastian Yatra', releaseYear=1, streams=2021, bpm=10, danceability=22}
+Song{trackName='The Feels', artistName='TWICE', releaseYear=1, streams=2021, bpm=10, danceability=1}
+Song{trackName='C��', artistName='Rauw Alejandro', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='Cigarettes', artistName='Juice WRLD', releaseYear=1, streams=2021, bpm=12, danceability=10}
+Song{trackName='Happier Than Ever - Edit', artistName='Billie Eilish', releaseYear=1, streams=2021, bpm=7, danceability=28}
+Song{trackName='Need To Know', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=11}
+Song{trackName='Woman', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='You Belong With Me (Taylor���s Ve', artistName='Taylor Swift', releaseYear=1, streams=2021, bpm=4, danceability=9}
+Song{trackName='Take My Breath', artistName='The Weeknd', releaseYear=1, streams=2021, bpm=8, danceability=6}
+Song{trackName='Yonaguni', artistName='Bad Bunny', releaseYear=1, streams=2021, bpm=6, danceability=4}
+Song{trackName='Envolver', artistName='Anitta', releaseYear=1, streams=2021, bpm=11, danceability=11}
+Song{trackName='All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)', artistName='Taylor Swift', releaseYear=1, streams=2021, bpm=11, danceability=12}
+Song{trackName='I AM WOMAN', artistName='Emmy Meli', releaseYear=1, streams=2021, bpm=11, danceability=18}
+Song{trackName='Every Summertime', artistName='NIKI', releaseYear=1, streams=2021, bpm=8, danceability=10}
+Song{trackName='happier', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='Flowers', artistName='Lauren Spencer Smith', releaseYear=1, streams=2021, bpm=8, danceability=9}
+Song{trackName='ELEVEN', artistName='IVE', releaseYear=1, streams=2021, bpm=12, danceability=1}
+Song{trackName='Until I Found You', artistName='Stephen Sanchez', releaseYear=1, streams=2021, bpm=9, danceability=1}
+Song{trackName='Acapulco', artistName='Jason Derulo', releaseYear=1, streams=2021, bpm=9, danceability=1}
+Song{trackName='SloMo', artistName='Chanel', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='It'll Be Okay', artistName='Shawn Mendes', releaseYear=1, streams=2021, bpm=12, danceability=1}
+Song{trackName='this is what falling in love feels like', artistName='JVKE', releaseYear=1, streams=2021, bpm=9, danceability=3}
+Song{trackName='Jordan', artistName='Ryan Castro', releaseYear=1, streams=2021, bpm=4, danceability=30}
+Song{trackName='Mujeriego', artistName='Ryan Castro', releaseYear=1, streams=2021, bpm=12, danceability=17}
+Song{trackName='Sobrio', artistName='Maluma', releaseYear=1, streams=2021, bpm=7, danceability=8}
+Song{trackName='Praise God', artistName='Kanye West', releaseYear=1, streams=2021, bpm=8, danceability=29}
+Song{trackName='295', artistName='Sidhu Moose Wala', releaseYear=1, streams=2021, bpm=5, danceability=15}
+Song{trackName='La Bebe', artistName='Yng Lvcas', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Easy On Me', artistName='Adele', releaseYear=1, streams=2021, bpm=10, danceability=14}
+Song{trackName='People', artistName='Libianca', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Bejeweled', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Worldwide Steppers', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Players', artistName='Coi Leray', releaseYear=1, streams=2022, bpm=11, danceability=30}
+Song{trackName='O.O', artistName='NMIXX', releaseYear=1, streams=2022, bpm=2, danceability=22}
+Song{trackName='Phantom Regret by Jim', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Feliz Cumplea��os Fe', artistName='Feid', releaseYear=1, streams=2022, bpm=8, danceability=19}
+Song{trackName='SUPERMODEL', artistName='M��ne', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Miserable Man', artistName='David Kushner', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Beautiful Girl', artistName='Luciano', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='This Love (Taylor���s Ve', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Tak Segampang Itu', artistName='Anggi Marito', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Hold My Hand', artistName='Lady Gaga', releaseYear=1, streams=2022, bpm=5, danceability=3}
+Song{trackName='LOVE DIVE', artistName='IVE', releaseYear=1, streams=2022, bpm=4, danceability=5}
+Song{trackName='Savior - Interlude', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='First Class', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='En El Radio Un Cochinero', artistName='Victor Cibrian', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Attention', artistName='NewJeans', releaseYear=1, streams=2022, bpm=8, danceability=1}
+Song{trackName='Late Night Talking', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Here With Me', artistName='d4vd', releaseYear=1, streams=2022, bpm=7, danceability=17}
+Song{trackName='Malas Decisiones', artistName='Kenia OS', releaseYear=1, streams=2022, bpm=10, danceability=26}
+Song{trackName='Shirt', artistName='SZA', releaseYear=1, streams=2022, bpm=10, danceability=28}
+Song{trackName='Nobody Gets Me', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Fim de Semana no Rio', artistName='teto', releaseYear=1, streams=2022, bpm=3, danceability=30}
+Song{trackName='TV', artistName='Billie Eilish', releaseYear=1, streams=2022, bpm=7, danceability=21}
+Song{trackName='RUMBAT�', artistName='Daddy Yankee', releaseYear=1, streams=2022, bpm=3, danceability=25}
+Song{trackName='Light Switch', artistName='Charlie Puth', releaseYear=1, streams=2022, bpm=1, danceability=19}
+Song{trackName='Antes de Perderte', artistName='Duki', releaseYear=1, streams=2022, bpm=6, danceability=2}
+Song{trackName='ANTIFRAGILE', artistName='LE SSERAFIM', releaseYear=1, streams=2022, bpm=10, danceability=17}
+Song{trackName='PROVENZA', artistName='Karol G', releaseYear=1, streams=2022, bpm=4, danceability=21}
+Song{trackName='Love Language', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Mirror', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='DESPECH�', artistName='ROSAL�', releaseYear=1, streams=2022, bpm=7, danceability=28}
+Song{trackName='Hype Boy', artistName='NewJeans', releaseYear=1, streams=2022, bpm=8, danceability=1}
+Song{trackName='In The Stars', artistName='Benson Boone', releaseYear=1, streams=2022, bpm=4, danceability=29}
+Song{trackName='Betty (Get Money)', artistName='Yung Gravy', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Conceited', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Yet To Come', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Evergreen (You Didn���t Deserve Me A', artistName='Omar Apollo', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='SPACE MAN', artistName='Sam Ryder', releaseYear=1, streams=2022, bpm=2, danceability=22}
+Song{trackName='Me Fui de Vacaciones', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Music For a Sushi Restaurant', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='STAR WALKIN' (League of Legends Worlds Anthem)', artistName='Lil Nas X', releaseYear=1, streams=2022, bpm=9, danceability=22}
+Song{trackName='Bad Habit', artistName='Steve Lacy', releaseYear=1, streams=2022, bpm=6, danceability=29}
+Song{trackName='c��mo dormi', artistName='Rels B', releaseYear=1, streams=2022, bpm=8, danceability=4}
+Song{trackName='Born Singer', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='KICK BACK', artistName='Kenshi Yonezu', releaseYear=1, streams=2022, bpm=10, danceability=12}
+Song{trackName='Just Wanna Rock', artistName='Lil Uzi Vert', releaseYear=1, streams=2022, bpm=10, danceability=17}
+Song{trackName='Grapejuice', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Massive', artistName='Drake', releaseYear=1, streams=2022, bpm=6, danceability=17}
+Song{trackName='Notice Me', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Polaroid Love', artistName='ENHYPEN', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Something in the Orange', artistName='Zach Bryan', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Snooze', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Boy's a liar', artistName='PinkPantheress', releaseYear=1, streams=2022, bpm=11, danceability=30}
+Song{trackName='LET GO', artistName='Central Cee', releaseYear=1, streams=2022, bpm=12, danceability=15}
+Song{trackName='Far', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='CUFF IT', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=7, danceability=29}
+Song{trackName='United In Grief', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='THE SHADE', artistName='Rex Orange County', releaseYear=1, streams=2022, bpm=3, danceability=11}
+Song{trackName='Punto G', artistName='Quevedo', releaseYear=1, streams=2022, bpm=11, danceability=4}
+Song{trackName='F2F', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='El Apag�', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Le�', artistName='Mar��lia Mendo', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Little Freak', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Less Than Zero', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Anti-Hero', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Gone Girl', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By', artistName='Rihanna', releaseYear=1, streams=2022, bpm=10, danceability=28}
+Song{trackName='Low', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='CHORRITO PA LAS ANIMAS', artistName='Feid', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Dos Mil 16', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='I Ain't Worried', artistName='OneRepublic', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Crown', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Dawn FM', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Blessed-Cursed', artistName='ENHYPEN', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Thousand Miles', artistName='The Kid Laroi', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Yo No Soy Celoso', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Chance', artistName='Paulo Londra', releaseYear=1, streams=2022, bpm=4, danceability=6}
+Song{trackName='Love Of My Life', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Worst Day', artistName='Future', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Komang', artistName='Raim Laode', releaseYear=1, streams=2022, bpm=8, danceability=16}
+Song{trackName='Is There Someone Else?', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Stefania (Kalush Orchestra)', artistName='KALUSH', releaseYear=1, streams=2022, bpm=3, danceability=10}
+Song{trackName='Dua Lipa', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='La Bachata', artistName='Manuel Turizo', releaseYear=1, streams=2022, bpm=5, danceability=26}
+Song{trackName='Seek & Destroy', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Maan Meri Jaan', artistName='King', releaseYear=1, streams=2022, bpm=10, danceability=12}
+Song{trackName='Normal', artistName='Feid', releaseYear=1, streams=2022, bpm=7, danceability=8}
+Song{trackName='Tak Ingin Usai', artistName='Keisya Levronka', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Super Freaky Girl', artistName='Nicki Minaj', releaseYear=1, streams=2022, bpm=8, danceability=12}
+Song{trackName='Soy El Unico', artistName='Yahritza Y Su Esencia', releaseYear=1, streams=2022, bpm=3, danceability=25}
+Song{trackName='Shut Down', artistName='BLACKPINK', releaseYear=1, streams=2022, bpm=9, danceability=16}
+Song{trackName='SPIT IN MY FACE!', artistName='ThxSoMch', releaseYear=1, streams=2022, bpm=10, danceability=31}
+Song{trackName='Chale', artistName='Eden Mu��', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='Don���t Break My', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='SNAP', artistName='Rosa Linn', releaseYear=1, streams=2022, bpm=3, danceability=19}
+Song{trackName='Neverita', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Si Te La Encuentras Por Ah�', artistName='Feid', releaseYear=1, streams=2022, bpm=8, danceability=5}
+Song{trackName='Efecto', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Too Late', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='About Damn Time', artistName='Lizzo', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='ceilings', artistName='Lizzy McAlpine', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='golden hour', artistName='JVKE', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Maroon', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Vista Al Mar', artistName='Quevedo', releaseYear=1, streams=2022, bpm=9, danceability=8}
+Song{trackName='Starlight', artistName='Dave', releaseYear=1, streams=2022, bpm=3, danceability=3}
+Song{trackName='Best Friends', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Starry Eyes', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='"I'm Tired - From ""Euphoria"" An Original HBO Series"', artistName='Labrinth', releaseYear=1, streams=2022, bpm=2, danceability=4}
+Song{trackName='Daydreaming', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Cinema', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Calm Down', artistName='R��', releaseYear=1, streams=2022, bpm=2, danceability=9}
+Song{trackName='Murder In My Mind', artistName='Kordhell', releaseYear=1, streams=2022, bpm=1, danceability=21}
+Song{trackName='Ojos Marrones', artistName='Lasso', releaseYear=1, streams=2022, bpm=2, danceability=6}
+Song{trackName='Glimpse of Us', artistName='Joji', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='SOS', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Midnight Rain', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Aguacero', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Coco', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Malvada', artistName='Z�� Fe', releaseYear=1, streams=2022, bpm=1, danceability=28}
+Song{trackName='Special', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='MORE', artistName='j-hope', releaseYear=1, streams=2022, bpm=7, danceability=1}
+Song{trackName='FEARLESS', artistName='LE SSERAFIM', releaseYear=1, streams=2022, bpm=5, danceability=2}
+Song{trackName='N95', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Blind', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Wild Flower (with youjeen)', artistName='RM', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Kahani Suno 2.0', artistName='Kaifi Khalil', releaseYear=1, streams=2022, bpm=5, danceability=31}
+Song{trackName='For Youth', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Thought You Should Know', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='DARARI', artistName='Treasure', releaseYear=1, streams=2022, bpm=2, danceability=15}
+Song{trackName='As It Was', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=3, danceability=31}
+Song{trackName='Still Life', artistName='BIGBANG', releaseYear=1, streams=2022, bpm=4, danceability=5}
+Song{trackName='Matilda', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Nail Tech', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='Keep Driving', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='she's all i wanna be', artistName='Tate McRae', releaseYear=1, streams=2022, bpm=2, danceability=4}
+Song{trackName='Una Noche en Medell�', artistName='Cris Mj', releaseYear=1, streams=2022, bpm=1, danceability=21}
+Song{trackName='GIVENCHY', artistName='Duki', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='Romantic Homicide', artistName='d4vd', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='Smoking on my Ex Pack', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='The Rumbling (TV Size)', artistName='SiM', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Titi Me Pregunt�', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Lovezinho', artistName='Treyce', releaseYear=1, streams=2022, bpm=7, danceability=28}
+Song{trackName='ALIEN SUPERSTAR', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=7, danceability=29}
+Song{trackName='Ens����ame', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Stay Alive (Prod. SUGA of BTS)', artistName='Jung Kook', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Hati-Hati di Jalan', artistName='Tulus', releaseYear=1, streams=2022, bpm=3, danceability=3}
+Song{trackName='Right On', artistName='Lil Baby', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Kill Bill', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Last Last', artistName='Burna Boy', releaseYear=1, streams=2022, bpm=5, danceability=12}
+Song{trackName='Count Me Out', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='In My Head', artistName='Lil Tjay', releaseYear=1, streams=2022, bpm=4, danceability=1}
+Song{trackName='Out of Time', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Numb Little Bug', artistName='Em Beihold', releaseYear=1, streams=2022, bpm=1, danceability=28}
+Song{trackName='Despu��s de la P', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='BREAK MY SOUL', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=6, danceability=21}
+Song{trackName='Boyfriend', artistName='Dove Cameron', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='die first', artistName='Nessa Barrett', releaseYear=1, streams=2022, bpm=6, danceability=24}
+Song{trackName='Un Verano Sin Ti', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Karma', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Rich - Interlude', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Gatita', artistName='Bellakath', releaseYear=1, streams=2022, bpm=10, danceability=3}
+Song{trackName='Ditto', artistName='NewJeans', releaseYear=1, streams=2022, bpm=12, danceability=19}
+Song{trackName='Rich Spirit', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Sticky', artistName='Drake', releaseYear=1, streams=2022, bpm=6, danceability=17}
+Song{trackName='Pink Venom', artistName='BLACKPINK', releaseYear=1, streams=2022, bpm=8, danceability=19}
+Song{trackName='How Do I Say Goodbye', artistName='Dean Lewis', releaseYear=1, streams=2022, bpm=8, danceability=5}
+Song{trackName='Slut Me Out', artistName='NLE Choppa', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='That's Hilarious', artistName='Charlie Puth', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='MANIAC', artistName='Stray Kids', releaseYear=1, streams=2022, bpm=3, danceability=18}
+Song{trackName='Satellite', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Fuera del mercado', artistName='Danny Ocean', releaseYear=1, streams=2022, bpm=2, danceability=17}
+Song{trackName='10 Things I Hate About You', artistName='Leah Kate', releaseYear=1, streams=2022, bpm=3, danceability=23}
+Song{trackName='Agosto', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='When You're Gone', artistName='Shawn Mendes', releaseYear=1, streams=2022, bpm=3, danceability=31}
+Song{trackName='SPIT IN MY FACE!', artistName='ThxSoMch', releaseYear=1, streams=2022, bpm=10, danceability=31}
+Song{trackName='You Proof', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='About Damn Time', artistName='Lizzo', releaseYear=1, streams=2022, bpm=4, danceability=14}
+Song{trackName='Afraid To Feel', artistName='LF System', releaseYear=1, streams=2022, bpm=5, danceability=2}
+Song{trackName='A Tale By Quincy', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='The Heart Part 5', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=8}
+Song{trackName='"Come Back Home - From ""Purple Hearts"""', artistName='Sofia Carson', releaseYear=1, streams=2022, bpm=7, danceability=12}
+Song{trackName='L���', artistName='Stromae', releaseYear=1, streams=2022, bpm=1, danceability=9}
+Song{trackName='Boyfriends', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Run BTS', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Auntie Diaries', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='PUFFIN ON ZOOTIEZ', artistName='Future', releaseYear=1, streams=2022, bpm=4, danceability=29}
+Song{trackName='ZOOM', artistName='Jessi', releaseYear=1, streams=2022, bpm=4, danceability=13}
+Song{trackName='Un Ratito', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Made You Look', artistName='Meghan Trainor', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Gasoline', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='POP!', artistName='Nayeon', releaseYear=1, streams=2022, bpm=6, danceability=24}
+Song{trackName='How Do I Make You Love Me?', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Plan A', artistName='Paulo Londra', releaseYear=1, streams=2022, bpm=3, danceability=23}
+Song{trackName='SNAP', artistName='Rosa Linn', releaseYear=1, streams=2022, bpm=3, danceability=19}
+Song{trackName='Shut up My Moms Calling - (Sped Up)', artistName='Hotel Ugly', releaseYear=1, streams=2022, bpm=9, danceability=14}
+Song{trackName='Zona De Perigo', artistName='Leo Santana', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Vegas (From the Original Motion Picture Soundtrack ELVIS)', artistName='Doja Cat', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Sacrifice', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Ya No Somos Ni Seremos', artistName='Christian Nodal', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='Primera Cita', artistName='Carin Leon', releaseYear=1, streams=2022, bpm=4, danceability=20}
+Song{trackName='Limbo', artistName='Freddie Dredd', releaseYear=1, streams=2022, bpm=8, danceability=11}
+Song{trackName='Doja', artistName='Central Cee', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='Moscow Mule', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Nonsense', artistName='Sabrina Carpenter', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Daylight', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='No Se Va', artistName='Grupo Frontera', releaseYear=1, streams=2022, bpm=4, danceability=28}
+Song{trackName='So Good', artistName='Halsey', releaseYear=1, streams=2022, bpm=6, danceability=9}
+Song{trackName='Every Angel is Terrifying', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Lavender Haze', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Die For You', artistName='Joji', releaseYear=1, streams=2022, bpm=11, danceability=4}
+Song{trackName='One Thing At A Time', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Never Felt So Alone', artistName='Labrinth', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='fukumean', artistName='Gunna', releaseYear=1, streams=2023, bpm=5, danceability=15}
+Song{trackName='S-Class', artistName='Stray Kids', releaseYear=1, streams=2023, bpm=6, danceability=2}
+Song{trackName='WANDA', artistName='Quevedo', releaseYear=1, streams=2023, bpm=1, danceability=20}
+Song{trackName='Red Ruby Da Sleeze', artistName='Nicki Minaj', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='HAPPY', artistName='NF', releaseYear=1, streams=2023, bpm=3, danceability=25}
+Song{trackName='LALA', artistName='Myke Towers', releaseYear=1, streams=2023, bpm=3, danceability=23}
+Song{trackName='Flowers', artistName='Miley Cyrus', releaseYear=1, streams=2023, bpm=1, danceability=12}
+Song{trackName='Born With A Beer In My Hand', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='SABOR FRESA', artistName='Fuerza Regida', releaseYear=1, streams=2023, bpm=6, danceability=22}
+Song{trackName='Better Than Revenge (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='S91', artistName='Karol G', releaseYear=1, streams=2023, bpm=7, danceability=14}
+Song{trackName='Eyes Closed', artistName='Ed Sheeran', releaseYear=1, streams=2023, bpm=3, danceability=23}
+Song{trackName='Tattoo', artistName='Loreen', releaseYear=1, streams=2023, bpm=2, danceability=25}
+Song{trackName='Rush', artistName='Troye Sivan', releaseYear=1, streams=2023, bpm=7, danceability=13}
+Song{trackName='Everything I Love', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='New Jeans', artistName='NewJeans', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Search & Rescue', artistName='Drake', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Dance The Night (From Barbie The Album)', artistName='Dua Lipa', releaseYear=1, streams=2023, bpm=5, danceability=25}
+Song{trackName='Ain���t Tha', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Heaven', artistName='Niall Horan', releaseYear=1, streams=2023, bpm=2, danceability=17}
+Song{trackName='Hits Different', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=5, danceability=26}
+Song{trackName='Last Night', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='������������', artistName='YOASOBI', releaseYear=1, streams=2023, bpm=4, danceability=12}
+Song{trackName='Chemical', artistName='Post Malone', releaseYear=1, streams=2023, bpm=4, danceability=14}
+Song{trackName='Cupid', artistName='Fifty Fifty', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='"What Was I Made For? [From The Motion Picture ""Barbie""]"', artistName='Billie Eilish', releaseYear=1, streams=2023, bpm=7, danceability=13}
+Song{trackName='Love Again', artistName='The Kid Laroi', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Erro Gostoso - Ao Vivo', artistName='Simone Mendes', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Cupid - Twin Ver.', artistName='Fifty Fifty', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='LLYLM', artistName='ROSAL�', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Super Shy', artistName='NewJeans', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Back To December (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Moonlight', artistName='Kali Uchis', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='Queencard', artistName='(G)I-DLE', releaseYear=1, streams=2023, bpm=5, danceability=15}
+Song{trackName='Mine (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='(It Goes Like) Nanana - Edit', artistName='Peggy Gou', releaseYear=1, streams=2023, bpm=6, danceability=15}
+Song{trackName='���98 Braves', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='OMG', artistName='NewJeans', releaseYear=1, streams=2023, bpm=1, danceability=2}
+Song{trackName='Say Yes To Heaven', artistName='Lana Del Rey', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='I AM', artistName='IVE', releaseYear=1, streams=2023, bpm=4, danceability=10}
+Song{trackName='Bye', artistName='Peso Pluma', releaseYear=1, streams=2023, bpm=5, danceability=26}
+Song{trackName='I Can See You (Taylor���s Version) (From The', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Cheques', artistName='Shubh', releaseYear=1, streams=2023, bpm=5, danceability=19}
+Song{trackName='What It Is (Solo Version)', artistName='Doechii', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Devil Don���', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Enchanted (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='MIENTRAS ME CURO DEL CORA', artistName='Karol G', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='I Wrote The Book', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Super', artistName='SEVENTEEN', releaseYear=1, streams=2023, bpm=4, danceability=24}
+Song{trackName='Haegeum', artistName='Agust D', releaseYear=1, streams=2023, bpm=4, danceability=21}
+Song{trackName='Mi Bello Angel', artistName='Natanael Cano', releaseYear=1, streams=2023, bpm=6, danceability=30}
+Song{trackName='Bite Me', artistName='ENHYPEN', releaseYear=1, streams=2023, bpm=5, danceability=22}
+Song{trackName='FLOWER', artistName='JISOO', releaseYear=1, streams=2023, bpm=3, danceability=31}
+Song{trackName='Cupido', artistName='Tini', releaseYear=1, streams=2023, bpm=2, danceability=14}
+Song{trackName='Sugar Rush Ride', artistName='TOMORROW X TOGETHER', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Overdrive', artistName='Post Malone', releaseYear=1, streams=2023, bpm=7, danceability=14}
+Song{trackName='REMIX EXCLUSIVO', artistName='Feid', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Daylight', artistName='David Kushner', releaseYear=1, streams=2023, bpm=4, danceability=14}
+Song{trackName='Peaches (from The Super Mario Bros. Movie)', artistName='Jack Black', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Take Two', artistName='BTS', releaseYear=1, streams=2023, bpm=6, danceability=9}
+Song{trackName='Columbia', artistName='Quevedo', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Thinkin��� B', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='TQM', artistName='Fuerza Regida', releaseYear=1, streams=2023, bpm=5, danceability=19}
+Song{trackName='Like Crazy', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='Acr��s', artistName='Shakira', releaseYear=1, streams=2023, bpm=5, danceability=11}
+Song{trackName='Sial', artistName='Mahalini', releaseYear=1, streams=2023, bpm=1, danceability=23}
+Song{trackName='TRUSTFALL', artistName='P!nk', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='If We Ever Broke Up', artistName='Mae Stephens', releaseYear=1, streams=2023, bpm=2, danceability=10}
+Song{trackName='Oi Balde - Ao Vivo', artistName='Z�� Neto & Crist', releaseYear=1, streams=2023, bpm=2, danceability=14}
+Song{trackName='AMARGURA', artistName='Karol G', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='VOID', artistName='Melanie Martinez', releaseYear=1, streams=2023, bpm=3, danceability=29}
+Song{trackName='WHERE SHE GOES', artistName='Bad Bunny', releaseYear=1, streams=2023, bpm=5, danceability=18}
+Song{trackName='El Gordo Trae El Mando', artistName='Chino Pacas', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='vampire', artistName='Olivia Rodrigo', releaseYear=1, streams=2023, bpm=6, danceability=30}
+Song{trackName='Set Me Free Pt.2', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Like Crazy (English Version)', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='CORAZ��N VA', artistName='Maria Becerra', releaseYear=1, streams=2023, bpm=6, danceability=22}
+Song{trackName='Fast Car', artistName='Luke Combs', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='Curtains', artistName='Ed Sheeran', releaseYear=1, streams=2023, bpm=5, danceability=5}
+Reverse Sorted List after sorting
+Song{trackName='The Christmas Song (Merry Christmas To You) - Remastered 1999', artistName='Nat King Cole', releaseYear=1, streams=1946, bpm=11, danceability=1}
+Song{trackName='A Holly Jolly Christmas - Single Version', artistName='Burl Ives', releaseYear=1, streams=1952, bpm=1, danceability=1}
+Song{trackName='Jingle Bell Rock', artistName='Bobby Helms', releaseYear=1, streams=1957, bpm=1, danceability=1}
+Song{trackName='Jingle Bells - Remastered 1999', artistName='Frank Sinatra', releaseYear=1, streams=1957, bpm=1, danceability=1}
+Song{trackName='Rockin' Around The Christmas Tree', artistName='Brenda Lee', releaseYear=1, streams=1958, bpm=1, danceability=1}
+Song{trackName='Run Rudolph Run - Single Version', artistName='Chuck Berry', releaseYear=1, streams=1958, bpm=1, danceability=1}
+Song{trackName='Let It Snow! Let It Snow! Let It Snow!', artistName='Dean Martin', releaseYear=1, streams=1959, bpm=11, danceability=16}
+Song{trackName='Deck The Hall - Remastered 1999', artistName='Nat King Cole', releaseYear=1, streams=1959, bpm=1, danceability=1}
+Song{trackName='It's the Most Wonderful Time of the Year', artistName='Andy Williams', releaseYear=1, streams=1963, bpm=10, danceability=14}
+Song{trackName='Sleigh Ride', artistName='The Ronettes', releaseYear=1, streams=1963, bpm=11, danceability=22}
+Song{trackName='Christmas (Baby Please Come Home)', artistName='Darlene Love', releaseYear=1, streams=1963, bpm=11, danceability=22}
+Song{trackName='Have You Ever Seen The Rain?', artistName='Creedence Clearwater Revival', releaseYear=1, streams=1968, bpm=7, danceability=1}
+Song{trackName='Feliz Navidad', artistName='Jos�� Felic', releaseYear=1, streams=1970, bpm=11, danceability=1}
+Song{trackName='Love Grows (Where My Rosemary Goes)', artistName='Edison Lighthouse', releaseYear=1, streams=1970, bpm=1, danceability=1}
+Song{trackName='Dream On', artistName='Aerosmith', releaseYear=1, streams=1973, bpm=1, danceability=5}
+Song{trackName='Riptide', artistName='Vance Joy', releaseYear=1, streams=1975, bpm=1, danceability=1}
+Song{trackName='Bohemian Rhapsody - Remastered 2011', artistName='Queen', releaseYear=1, streams=1975, bpm=10, danceability=31}
+Song{trackName='Wonderful Christmastime - Edited Version / Remastered 2011', artistName='Paul McCartney', releaseYear=1, streams=1979, bpm=11, danceability=16}
+Song{trackName='Pass The Dutchie', artistName='Musical Youth', releaseYear=1, streams=1982, bpm=1, danceability=1}
+Song{trackName='Every Breath You Take - Remastered 2003', artistName='The Police', releaseYear=1, streams=1983, bpm=1, danceability=6}
+Song{trackName='Take On Me', artistName='a-ha', releaseYear=1, streams=1984, bpm=10, danceability=19}
+Song{trackName='Last Christmas', artistName='Wham!', releaseYear=1, streams=1984, bpm=1, danceability=1}
+Song{trackName='Do They Know It's Christmas? - 1984 Version', artistName='Band Aid', releaseYear=1, streams=1984, bpm=11, danceability=25}
+Song{trackName='Merry Christmas Everyone', artistName='Shakin' Stevens', releaseYear=1, streams=1984, bpm=1, danceability=1}
+Song{trackName='Everybody Wants To Rule The World', artistName='Tears For Fears', releaseYear=1, streams=1985, bpm=2, danceability=17}
+Song{trackName='Running Up That Hill (A Deal With God)', artistName='Kate Bush', releaseYear=1, streams=1985, bpm=9, danceability=16}
+Song{trackName='Driving Home for Christmas - 2019 Remaster', artistName='Chris Rea', releaseYear=1, streams=1986, bpm=1, danceability=1}
+Song{trackName='Master of Puppets (Remastered)', artistName='Metallica', releaseYear=1, streams=1986, bpm=3, danceability=3}
+Song{trackName='Sweet Child O' Mine', artistName='Guns N' Roses', releaseYear=1, streams=1987, bpm=1, danceability=1}
+Song{trackName='Smells Like Teen Spirit - Remastered 2021', artistName='Nirvana', releaseYear=1, streams=1991, bpm=9, danceability=10}
+Song{trackName='Something In The Way - Remastered 2021', artistName='Nirvana', releaseYear=1, streams=1991, bpm=9, danceability=24}
+Song{trackName='Creep', artistName='Radiohead', releaseYear=1, streams=1992, bpm=9, danceability=21}
+Song{trackName='All I Want for Christmas Is You', artistName='Mariah Carey', releaseYear=1, streams=1994, bpm=10, danceability=28}
+Song{trackName='Cupid ��� Twin Ver. (FIFTY FIFTY) ��� Spe', artistName='sped up 8282', releaseYear=1, streams=1997, bpm=1, danceability=1}
+Song{trackName='Iris', artistName='The Goo Goo Dolls', releaseYear=1, streams=1998, bpm=3, danceability=31}
+Song{trackName='Yellow', artistName='Chris Molitor', releaseYear=1, streams=1999, bpm=1, danceability=1}
+Song{trackName='The Real Slim Shady', artistName='Eminem', releaseYear=1, streams=2000, bpm=1, danceability=1}
+Song{trackName='In The End', artistName='Linkin Park', releaseYear=1, streams=2000, bpm=10, danceability=24}
+Song{trackName='My Only Wish (This Year)', artistName='Britney Spears', releaseYear=1, streams=2000, bpm=11, danceability=7}
+Song{trackName='Without Me', artistName='Eminem', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Lose Yourself - Soundtrack Version', artistName='Eminem', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='In Da Club', artistName='50 Cent', releaseYear=1, streams=2002, bpm=1, danceability=1}
+Song{trackName='Numb', artistName='Linkin Park', releaseYear=1, streams=2003, bpm=3, danceability=24}
+Song{trackName='Mr. Brightside', artistName='The Killers', releaseYear=1, streams=2003, bpm=9, danceability=23}
+Song{trackName='Mockingbird', artistName='Eminem', releaseYear=1, streams=2004, bpm=1, danceability=1}
+Song{trackName='Somewhere Only We Know', artistName='Keane', releaseYear=1, streams=2004, bpm=1, danceability=1}
+Song{trackName='Gasolina', artistName='Daddy Yankee', releaseYear=1, streams=2004, bpm=7, danceability=13}
+Song{trackName='Yo Voy (feat. Daddy Yankee)', artistName='Zion & Lennox', releaseYear=1, streams=2004, bpm=5, danceability=4}
+Song{trackName='505', artistName='Arctic Monkeys', releaseYear=1, streams=2007, bpm=4, danceability=20}
+Song{trackName='Viva La Vida', artistName='Coldplay', releaseYear=1, streams=2008, bpm=1, danceability=1}
+Song{trackName='Heartless', artistName='Kanye West', releaseYear=1, streams=2008, bpm=1, danceability=1}
+Song{trackName='Enchanted', artistName='Taylor Swift', releaseYear=1, streams=2010, bpm=1, danceability=1}
+Song{trackName='Sure Thing', artistName='Miguel', releaseYear=1, streams=2010, bpm=5, danceability=25}
+Song{trackName='Just The Way You Are', artistName='Bruno Mars', releaseYear=1, streams=2010, bpm=1, danceability=1}
+Song{trackName='Es un Secreto', artistName='Plan B', releaseYear=1, streams=2010, bpm=7, danceability=20}
+Song{trackName='Rolling in the Deep', artistName='Adele', releaseYear=1, streams=2010, bpm=11, danceability=29}
+Song{trackName='Talking To The Moon', artistName='Bruno Mars', releaseYear=1, streams=2010, bpm=10, danceability=4}
+Song{trackName='Summertime Sadness', artistName='Lana Del Rey', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Set Fire to the Rain', artistName='Adele', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Radio', artistName='Lana Del Rey', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Bloody Mary', artistName='Lady Gaga', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='It's Beginning To Look A Lot Like Christmas', artistName='Michael Bubl�', releaseYear=1, streams=2011, bpm=10, danceability=14}
+Song{trackName='Holly Jolly Christmas', artistName='Michael Bubl�', releaseYear=1, streams=2011, bpm=10, danceability=14}
+Song{trackName='Mistletoe', artistName='Justin Bieber', releaseYear=1, streams=2011, bpm=1, danceability=1}
+Song{trackName='Another Love', artistName='Tom Odell', releaseYear=1, streams=2012, bpm=10, danceability=15}
+Song{trackName='Sweater Weather', artistName='The Neighbourhood', releaseYear=1, streams=2012, bpm=5, danceability=14}
+Song{trackName='Lover', artistName='Taylor Swift', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='Locked Out Of Heaven', artistName='Bruno Mars', releaseYear=1, streams=2012, bpm=12, danceability=5}
+Song{trackName='When I Was Your Man', artistName='Bruno Mars', releaseYear=1, streams=2012, bpm=12, danceability=5}
+Song{trackName='Demons', artistName='Imagine Dragons', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='Lost', artistName='Frank Ocean', releaseYear=1, streams=2012, bpm=1, danceability=1}
+Song{trackName='I Wanna Be Yours', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Counting Stars', artistName='OneRepublic', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Do I Wanna Know?', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Why'd You Only Call Me When You're High?', artistName='Arctic Monkeys', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Take Me To Church', artistName='Hozier', releaseYear=1, streams=2013, bpm=9, danceability=13}
+Song{trackName='Santa Tell Me', artistName='Ariana Grande', releaseYear=1, streams=2013, bpm=12, danceability=13}
+Song{trackName='Underneath the Tree', artistName='Kelly Clarkson', releaseYear=1, streams=2013, bpm=10, danceability=25}
+Song{trackName='All of Me', artistName='John Legend', releaseYear=1, streams=2013, bpm=8, danceability=1}
+Song{trackName='Ginseng Strip 2002', artistName='Yung Lean', releaseYear=1, streams=2013, bpm=8, danceability=16}
+Song{trackName='Wake Me Up - Radio Edit', artistName='Avicii', releaseYear=1, streams=2013, bpm=1, danceability=1}
+Song{trackName='Blank Space', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Style', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='No Role Modelz', artistName='J. Cole', releaseYear=1, streams=2014, bpm=12, danceability=9}
+Song{trackName='Shake It Off', artistName='Taylor Swift', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Night Changes', artistName='One Direction', releaseYear=1, streams=2014, bpm=11, danceability=17}
+Song{trackName='Lovers Rock', artistName='TV Girl', releaseYear=1, streams=2014, bpm=6, danceability=5}
+Song{trackName='I Love You So', artistName='The Walters', releaseYear=1, streams=2014, bpm=11, danceability=28}
+Song{trackName='I'm Not The Only One', artistName='Sam Smith', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='After Dark', artistName='Mr.Kitty', releaseYear=1, streams=2014, bpm=8, danceability=8}
+Song{trackName='The Nights', artistName='Avicii', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Thinking Out Loud', artistName='Ed Sheeran', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Photograph', artistName='Ed Sheeran', releaseYear=1, streams=2014, bpm=6, danceability=20}
+Song{trackName='Only Love Can Hurt Like This', artistName='Paloma Faith', releaseYear=1, streams=2014, bpm=1, danceability=1}
+Song{trackName='Makeba', artistName='Jain', releaseYear=1, streams=2015, bpm=6, danceability=22}
+Song{trackName='The Night We Met', artistName='Lord Huron', releaseYear=1, streams=2015, bpm=2, danceability=2}
+Song{trackName='The Hills', artistName='The Weeknd', releaseYear=1, streams=2015, bpm=5, danceability=27}
+Song{trackName='Space Song', artistName='Beach House', releaseYear=1, streams=2015, bpm=1, danceability=1}
+Song{trackName='Atlantis', artistName='Seafret', releaseYear=1, streams=2015, bpm=4, danceability=22}
+Song{trackName='Freaks', artistName='Surf Curse', releaseYear=1, streams=2015, bpm=5, danceability=10}
+Song{trackName='Daddy Issues', artistName='The Neighbourhood', releaseYear=1, streams=2015, bpm=10, danceability=30}
+Song{trackName='Alien Blues', artistName='Vundabar', releaseYear=1, streams=2015, bpm=7, danceability=24}
+Song{trackName='Wait a Minute!', artistName='Willow', releaseYear=1, streams=2015, bpm=1, danceability=11}
+Song{trackName='Cool for the Summer', artistName='Demi Lovato', releaseYear=1, streams=2015, bpm=1, danceability=1}
+Song{trackName='Love Yourself', artistName='Justin Bieber', releaseYear=1, streams=2015, bpm=11, danceability=9}
+Song{trackName='Die For You', artistName='The Weeknd', releaseYear=1, streams=2016, bpm=11, danceability=24}
+Song{trackName='Reminder', artistName='The Weeknd', releaseYear=1, streams=2016, bpm=11, danceability=25}
+Song{trackName='Pink + White', artistName='Frank Ocean', releaseYear=1, streams=2016, bpm=8, danceability=20}
+Song{trackName='Unstoppable', artistName='Sia', releaseYear=1, streams=2016, bpm=1, danceability=21}
+Song{trackName='Say You Won't Let Go', artistName='James Arthur', releaseYear=1, streams=2016, bpm=9, danceability=9}
+Song{trackName='Pope Is a Rockstar', artistName='SALES', releaseYear=1, streams=2016, bpm=4, danceability=20}
+Song{trackName='Notion', artistName='The Rare Occasions', releaseYear=1, streams=2016, bpm=8, danceability=5}
+Song{trackName='There's Nothing Holdin' Me Back', artistName='Shawn Mendes', releaseYear=1, streams=2016, bpm=9, danceability=23}
+Song{trackName='House Of Memories', artistName='Panic! At The Disco', releaseYear=1, streams=2016, bpm=1, danceability=15}
+Song{trackName='Me and Your Mama', artistName='Childish Gambino', releaseYear=1, streams=2016, bpm=11, danceability=10}
+Song{trackName='Don���t Bl', artistName='Taylor Swift', releaseYear=1, streams=2017, bpm=11, danceability=8}
+Song{trackName='Dandelions', artistName='Ruth B.', releaseYear=1, streams=2017, bpm=4, danceability=28}
+Song{trackName='Perfect', artistName='Ed Sheeran', releaseYear=1, streams=2017, bpm=1, danceability=1}
+Song{trackName='Believer', artistName='Imagine Dragons', releaseYear=1, streams=2017, bpm=1, danceability=31}
+Song{trackName='Shape of You', artistName='Ed Sheeran', releaseYear=1, streams=2017, bpm=1, danceability=6}
+Song{trackName='Apocalypse', artistName='Cigarettes After Sex', releaseYear=1, streams=2017, bpm=3, danceability=21}
+Song{trackName='Dark Red', artistName='Steve Lacy', releaseYear=1, streams=2017, bpm=2, danceability=20}
+Song{trackName='Revenge', artistName='XXXTENTACION', releaseYear=1, streams=2017, bpm=8, danceability=25}
+Song{trackName='Snowman', artistName='Sia', releaseYear=1, streams=2017, bpm=1, danceability=1}
+Song{trackName='Infinity', artistName='Jaymes Young', releaseYear=1, streams=2017, bpm=6, danceability=23}
+Song{trackName='Beggin', artistName='M��ne', releaseYear=1, streams=2017, bpm=12, danceability=8}
+Song{trackName='Bored', artistName='Billie Eilish', releaseYear=1, streams=2017, bpm=3, danceability=30}
+Song{trackName='Lucid Dreams', artistName='Juice WRLD', releaseYear=1, streams=2017, bpm=6, danceability=15}
+Song{trackName='HUMBLE.', artistName='Kendrick Lamar', releaseYear=1, streams=2017, bpm=3, danceability=30}
+Song{trackName='Swim', artistName='Chase Atlantic', releaseYear=1, streams=2017, bpm=10, danceability=4}
+Song{trackName='Good Looking', artistName='Suki Waterhouse', releaseYear=1, streams=2017, bpm=10, danceability=20}
+Song{trackName='Someone You Loved', artistName='Lewis Capaldi', releaseYear=1, streams=2018, bpm=11, danceability=8}
+Song{trackName='Let Me Down Slowly', artistName='Alec Benjamin', releaseYear=1, streams=2018, bpm=5, danceability=25}
+Song{trackName='Call Out My Name', artistName='The Weeknd', releaseYear=1, streams=2018, bpm=3, danceability=29}
+Song{trackName='Softcore', artistName='The Neighbourhood', releaseYear=1, streams=2018, bpm=3, danceability=9}
+Song{trackName='Hope', artistName='XXXTENTACION', releaseYear=1, streams=2018, bpm=3, danceability=16}
+Song{trackName='SLOW DANCING IN THE DARK', artistName='Joji', releaseYear=1, streams=2018, bpm=9, danceability=12}
+Song{trackName='Cruel Summer', artistName='Taylor Swift', releaseYear=1, streams=2019, bpm=8, danceability=23}
+Song{trackName='Blinding Lights', artistName='The Weeknd', releaseYear=1, streams=2019, bpm=11, danceability=29}
+Song{trackName='Watermelon Sugar', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=11, danceability=17}
+Song{trackName='Those Eyes', artistName='New West', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Under The Influence', artistName='Chris Brown', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Car's Outside', artistName='James Arthur', releaseYear=1, streams=2019, bpm=10, danceability=18}
+Song{trackName='Circles', artistName='Post Malone', releaseYear=1, streams=2019, bpm=8, danceability=30}
+Song{trackName='All Of The Girls You Loved Before', artistName='Taylor Swift', releaseYear=1, streams=2019, bpm=8, danceability=23}
+Song{trackName='Heart To Heart', artistName='Mac DeMarco', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Don't Start Now', artistName='Dua Lipa', releaseYear=1, streams=2019, bpm=10, danceability=31}
+Song{trackName='love nwantiti (ah ah ah)', artistName='Ckay', releaseYear=1, streams=2019, bpm=7, danceability=26}
+Song{trackName='Before You Go', artistName='Lewis Capaldi', releaseYear=1, streams=2019, bpm=11, danceability=1}
+Song{trackName='Astronaut In The Ocean', artistName='Masked Wolf', releaseYear=1, streams=2019, bpm=1, danceability=1}
+Song{trackName='Dance Monkey', artistName='Tones and I', releaseYear=1, streams=2019, bpm=5, danceability=10}
+Song{trackName='Arcade', artistName='Duncan Laurence', releaseYear=1, streams=2019, bpm=3, danceability=7}
+Song{trackName='Streets', artistName='Doja Cat', releaseYear=1, streams=2019, bpm=11, danceability=7}
+Song{trackName='Memories', artistName='Maroon 5', releaseYear=1, streams=2019, bpm=9, danceability=20}
+Song{trackName='Formula', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Mount Everest', artistName='Labrinth', releaseYear=1, streams=2019, bpm=6, danceability=21}
+Song{trackName='Still Don't Know My Name', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='When I R.I.P.', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Forever', artistName='Labrinth', releaseYear=1, streams=2019, bpm=10, danceability=4}
+Song{trackName='Adore You', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=6}
+Song{trackName='Falling', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=13}
+Song{trackName='Golden', artistName='Harry Styles', releaseYear=1, streams=2019, bpm=12, danceability=13}
+Song{trackName='San Lucas', artistName='Kevin Kaarl', releaseYear=1, streams=2019, bpm=11, danceability=7}
+Song{trackName='Mary On A Cross', artistName='Ghost', releaseYear=1, streams=2019, bpm=9, danceability=13}
+Song{trackName='Angels Like You', artistName='Miley Cyrus', releaseYear=1, streams=2020, bpm=11, danceability=27}
+Song{trackName='cardigan', artistName='Taylor Swift', releaseYear=1, streams=2020, bpm=7, danceability=24}
+Song{trackName='Heat Waves', artistName='Glass Animals', releaseYear=1, streams=2020, bpm=6, danceability=28}
+Song{trackName='Still With You', artistName='Jung Kook', releaseYear=1, streams=2020, bpm=6, danceability=5}
+Song{trackName='august', artistName='Taylor Swift', releaseYear=1, streams=2020, bpm=7, danceability=24}
+Song{trackName='Save Your Tears', artistName='The Weeknd', releaseYear=1, streams=2020, bpm=3, danceability=20}
+Song{trackName='Shut up My Moms Calling', artistName='Hotel Ugly', releaseYear=1, streams=2020, bpm=2, danceability=10}
+Song{trackName='After Hours', artistName='The Weeknd', releaseYear=1, streams=2020, bpm=2, danceability=19}
+Song{trackName='���������������������', artistName='Fujii Kaze', releaseYear=1, streams=2020, bpm=5, danceability=20}
+Song{trackName='Heather', artistName='Conan Gray', releaseYear=1, streams=2020, bpm=3, danceability=20}
+Song{trackName='MIDDLE OF THE NIGHT', artistName='Elley Duh�', releaseYear=1, streams=2020, bpm=1, danceability=10}
+Song{trackName='Bad Habits', artistName='Ed Sheeran', releaseYear=1, streams=2020, bpm=9, danceability=3}
+Song{trackName='Good Days', artistName='SZA', releaseYear=1, streams=2020, bpm=12, danceability=24}
+Song{trackName='MONTERO (Call Me By Your Name)', artistName='Lil Nas X', releaseYear=1, streams=2020, bpm=9, danceability=18}
+Song{trackName='Todo De Ti', artistName='Rauw Alejandro', releaseYear=1, streams=2020, bpm=11, danceability=2}
+Song{trackName='Life Goes On', artistName='Oliver Tree', releaseYear=1, streams=2020, bpm=7, danceability=17}
+Song{trackName='Dynamite', artistName='BTS', releaseYear=1, streams=2020, bpm=8, danceability=21}
+Song{trackName='Sky', artistName='Playboi Carti', releaseYear=1, streams=2020, bpm=12, danceability=25}
+Song{trackName='The Business', artistName='Ti��', releaseYear=1, streams=2020, bpm=1, danceability=1}
+Song{trackName='positions', artistName='Ariana Grande', releaseYear=1, streams=2020, bpm=10, danceability=23}
+Song{trackName='HEARTBREAK ANNIVERSARY', artistName='Giveon', releaseYear=1, streams=2020, bpm=2, danceability=21}
+Song{trackName='you broke me first', artistName='Tate McRae', releaseYear=1, streams=2020, bpm=4, danceability=17}
+Song{trackName='A Tu Merced', artistName='Bad Bunny', releaseYear=1, streams=2020, bpm=2, danceability=29}
+Song{trackName='La Zona', artistName='Bad Bunny', releaseYear=1, streams=2020, bpm=2, danceability=29}
+Song{trackName='Levitating', artistName='Dua Lipa', releaseYear=1, streams=2020, bpm=3, danceability=27}
+Song{trackName='Demasiadas Mujeres', artistName='C. Tangana', releaseYear=1, streams=2020, bpm=10, danceability=8}
+Song{trackName='Caile', artistName='Luar La L', releaseYear=1, streams=2020, bpm=12, danceability=18}
+Song{trackName='Bones', artistName='Imagine Dragons', releaseYear=1, streams=2021, bpm=3, danceability=11}
+Song{trackName='Por las Noches', artistName='Peso Pluma', releaseYear=1, streams=2021, bpm=6, danceability=11}
+Song{trackName='Ghost', artistName='Justin Bieber', releaseYear=1, streams=2021, bpm=3, danceability=19}
+Song{trackName='You Belong With Me (Taylor���s Ve', artistName='Taylor Swift', releaseYear=1, streams=2021, bpm=4, danceability=9}
+Song{trackName='Until I Found You', artistName='Stephen Sanchez', releaseYear=1, streams=2021, bpm=9, danceability=1}
+Song{trackName='Easy On Me', artistName='Adele', releaseYear=1, streams=2021, bpm=10, danceability=14}
+Song{trackName='The Color Violet', artistName='Tory Lanez', releaseYear=1, streams=2021, bpm=12, danceability=10}
+Song{trackName='Shivers', artistName='Ed Sheeran', releaseYear=1, streams=2021, bpm=9, danceability=9}
+Song{trackName='METAMORPHOSIS', artistName='INTERWORLD', releaseYear=1, streams=2021, bpm=11, danceability=25}
+Song{trackName='La Bebe', artistName='Yng Lvcas', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Yonaguni', artistName='Bad Bunny', releaseYear=1, streams=2021, bpm=6, danceability=4}
+Song{trackName='Woman', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='I Hate U', artistName='SZA', releaseYear=1, streams=2021, bpm=12, danceability=3}
+Song{trackName='���abcdefu', artistName='Gayle', releaseYear=1, streams=2021, bpm=8, danceability=13}
+Song{trackName='Pepas', artistName='Farruko', releaseYear=1, streams=2021, bpm=6, danceability=24}
+Song{trackName='Take My Breath', artistName='The Weeknd', releaseYear=1, streams=2021, bpm=8, danceability=6}
+Song{trackName='good 4 u', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=14}
+Song{trackName='Need To Know', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=11}
+Song{trackName='Surface Pressure', artistName='Jessica Darrow', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='THATS WHAT I WANT', artistName='Lil Nas X', releaseYear=1, streams=2021, bpm=9, danceability=17}
+Song{trackName='MONEY', artistName='Lisa', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Happier Than Ever', artistName='Billie Eilish', releaseYear=1, streams=2021, bpm=7, danceability=30}
+Song{trackName='Toxic', artistName='BoyWithUke', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='drivers license', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=1, danceability=8}
+Song{trackName='All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)', artistName='Taylor Swift', releaseYear=1, streams=2021, bpm=11, danceability=12}
+Song{trackName='Oh My God', artistName='Adele', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='I AM WOMAN', artistName='Emmy Meli', releaseYear=1, streams=2021, bpm=11, danceability=18}
+Song{trackName='It'll Be Okay', artistName='Shawn Mendes', releaseYear=1, streams=2021, bpm=12, danceability=1}
+Song{trackName='Super Gremlin', artistName='Kodak Black', releaseYear=1, streams=2021, bpm=10, danceability=30}
+Song{trackName='Tacones Rojos', artistName='Sebastian Yatra', releaseYear=1, streams=2021, bpm=10, danceability=22}
+Song{trackName='Butter', artistName='BTS', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='deja vu', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=4, danceability=1}
+Song{trackName='TO THE MOON', artistName='Jnr Choi', releaseYear=1, streams=2021, bpm=11, danceability=5}
+Song{trackName='Dos Oruguitas', artistName='Sebastian Yatra', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='Acapulco', artistName='Jason Derulo', releaseYear=1, streams=2021, bpm=9, danceability=1}
+Song{trackName='ELEVEN', artistName='IVE', releaseYear=1, streams=2021, bpm=12, danceability=1}
+Song{trackName='DANCE CRIP', artistName='Trueno', releaseYear=1, streams=2021, bpm=11, danceability=17}
+Song{trackName='happier', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='Praise God', artistName='Kanye West', releaseYear=1, streams=2021, bpm=8, danceability=29}
+Song{trackName='Get Into It (Yuh)', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='Sobrio', artistName='Maluma', releaseYear=1, streams=2021, bpm=7, danceability=8}
+Song{trackName='favorite crime', artistName='Olivia Rodrigo', releaseYear=1, streams=2021, bpm=5, danceability=21}
+Song{trackName='I WANNA BE YOUR SLAVE', artistName='M��ne', releaseYear=1, streams=2021, bpm=3, danceability=19}
+Song{trackName='The Feels', artistName='TWICE', releaseYear=1, streams=2021, bpm=10, danceability=1}
+Song{trackName='2055', artistName='Sleepy hallow', releaseYear=1, streams=2021, bpm=4, danceability=14}
+Song{trackName='Happier Than Ever - Edit', artistName='Billie Eilish', releaseYear=1, streams=2021, bpm=7, danceability=28}
+Song{trackName='Every Summertime', artistName='NIKI', releaseYear=1, streams=2021, bpm=8, danceability=10}
+Song{trackName='Take My Breath', artistName='The Weeknd', releaseYear=1, streams=2021, bpm=8, danceability=6}
+Song{trackName='C��', artistName='Rauw Alejandro', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='Permission to Dance', artistName='BTS', releaseYear=1, streams=2021, bpm=7, danceability=9}
+Song{trackName='RAPSTAR', artistName='Polo G', releaseYear=1, streams=2021, bpm=4, danceability=9}
+Song{trackName='Cigarettes', artistName='Juice WRLD', releaseYear=1, streams=2021, bpm=12, danceability=10}
+Song{trackName='Mujeriego', artistName='Ryan Castro', releaseYear=1, streams=2021, bpm=12, danceability=17}
+Song{trackName='Hrs and Hrs', artistName='Muni Long', releaseYear=1, streams=2021, bpm=11, danceability=19}
+Song{trackName='Christmas Tree', artistName='V', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Envolver', artistName='Anitta', releaseYear=1, streams=2021, bpm=11, danceability=11}
+Song{trackName='Jordan', artistName='Ryan Castro', releaseYear=1, streams=2021, bpm=4, danceability=30}
+Song{trackName='this is what falling in love feels like', artistName='JVKE', releaseYear=1, streams=2021, bpm=9, danceability=3}
+Song{trackName='Mon��y so', artistName='YEAT', releaseYear=1, streams=2021, bpm=9, danceability=10}
+Song{trackName='Angel Baby', artistName='Troye Sivan', releaseYear=1, streams=2021, bpm=9, danceability=9}
+Song{trackName='Ain't Shit', artistName='Doja Cat', releaseYear=1, streams=2021, bpm=6, danceability=25}
+Song{trackName='SloMo', artistName='Chanel', releaseYear=1, streams=2021, bpm=12, danceability=24}
+Song{trackName='Flowers', artistName='Lauren Spencer Smith', releaseYear=1, streams=2021, bpm=8, danceability=9}
+Song{trackName='295', artistName='Sidhu Moose Wala', releaseYear=1, streams=2021, bpm=5, danceability=15}
+Song{trackName='As It Was', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=3, danceability=31}
+Song{trackName='Kill Bill', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Anti-Hero', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='I Ain't Worried', artistName='OneRepublic', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='La Bachata', artistName='Manuel Turizo', releaseYear=1, streams=2022, bpm=5, danceability=26}
+Song{trackName='Karma', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='People', artistName='Libianca', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='golden hour', artistName='JVKE', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Here With Me', artistName='d4vd', releaseYear=1, streams=2022, bpm=7, danceability=17}
+Song{trackName='Snooze', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Primera Cita', artistName='Carin Leon', releaseYear=1, streams=2022, bpm=4, danceability=20}
+Song{trackName='Tak Segampang Itu', artistName='Anggi Marito', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Nonsense', artistName='Sabrina Carpenter', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Feliz Cumplea��os Fe', artistName='Feid', releaseYear=1, streams=2022, bpm=8, danceability=19}
+Song{trackName='Romantic Homicide', artistName='d4vd', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='SNAP', artistName='Rosa Linn', releaseYear=1, streams=2022, bpm=3, danceability=19}
+Song{trackName='Titi Me Pregunt�', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Ditto', artistName='NewJeans', releaseYear=1, streams=2022, bpm=12, danceability=19}
+Song{trackName='CHORRITO PA LAS ANIMAS', artistName='Feid', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='Players', artistName='Coi Leray', releaseYear=1, streams=2022, bpm=11, danceability=30}
+Song{trackName='Normal', artistName='Feid', releaseYear=1, streams=2022, bpm=7, danceability=8}
+Song{trackName='Bad Habit', artistName='Steve Lacy', releaseYear=1, streams=2022, bpm=6, danceability=29}
+Song{trackName='CUFF IT', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=7, danceability=29}
+Song{trackName='Lavender Haze', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Efecto', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Just Wanna Rock', artistName='Lil Uzi Vert', releaseYear=1, streams=2022, bpm=10, danceability=17}
+Song{trackName='Glimpse of Us', artistName='Joji', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='ceilings', artistName='Lizzy McAlpine', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Slut Me Out', artistName='NLE Choppa', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='PROVENZA', artistName='Karol G', releaseYear=1, streams=2022, bpm=4, danceability=21}
+Song{trackName='Komang', artistName='Raim Laode', releaseYear=1, streams=2022, bpm=8, danceability=16}
+Song{trackName='DESPECH�', artistName='ROSAL�', releaseYear=1, streams=2022, bpm=7, danceability=28}
+Song{trackName='Made You Look', artistName='Meghan Trainor', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='No Se Va', artistName='Grupo Frontera', releaseYear=1, streams=2022, bpm=4, danceability=28}
+Song{trackName='Punto G', artistName='Quevedo', releaseYear=1, streams=2022, bpm=11, danceability=4}
+Song{trackName='Shut Down', artistName='BLACKPINK', releaseYear=1, streams=2022, bpm=9, danceability=16}
+Song{trackName='Late Night Talking', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Le�', artistName='Mar��lia Mendo', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Something in the Orange', artistName='Zach Bryan', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Midnight Rain', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='You Proof', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Malas Decisiones', artistName='Kenia OS', releaseYear=1, streams=2022, bpm=10, danceability=26}
+Song{trackName='Murder In My Mind', artistName='Kordhell', releaseYear=1, streams=2022, bpm=1, danceability=21}
+Song{trackName='Low', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='One Thing At A Time', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='LET GO', artistName='Central Cee', releaseYear=1, streams=2022, bpm=12, danceability=15}
+Song{trackName='SPIT IN MY FACE!', artistName='ThxSoMch', releaseYear=1, streams=2022, bpm=10, danceability=31}
+Song{trackName='Kahani Suno 2.0', artistName='Kaifi Khalil', releaseYear=1, streams=2022, bpm=5, danceability=31}
+Song{trackName='Nobody Gets Me', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Hype Boy', artistName='NewJeans', releaseYear=1, streams=2022, bpm=8, danceability=1}
+Song{trackName='Thought You Should Know', artistName='Morgan Wallen', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Zona De Perigo', artistName='Leo Santana', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Lovezinho', artistName='Treyce', releaseYear=1, streams=2022, bpm=7, danceability=28}
+Song{trackName='Neverita', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Vista Al Mar', artistName='Quevedo', releaseYear=1, streams=2022, bpm=9, danceability=8}
+Song{trackName='About Damn Time', artistName='Lizzo', releaseYear=1, streams=2022, bpm=7, danceability=15}
+Song{trackName='Maan Meri Jaan', artistName='King', releaseYear=1, streams=2022, bpm=10, danceability=12}
+Song{trackName='Moscow Mule', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='ANTIFRAGILE', artistName='LE SSERAFIM', releaseYear=1, streams=2022, bpm=10, danceability=17}
+Song{trackName='Boy's a liar', artistName='PinkPantheress', releaseYear=1, streams=2022, bpm=11, danceability=30}
+Song{trackName='Shirt', artistName='SZA', releaseYear=1, streams=2022, bpm=10, danceability=28}
+Song{trackName='Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By', artistName='Rihanna', releaseYear=1, streams=2022, bpm=10, danceability=28}
+Song{trackName='STAR WALKIN' (League of Legends Worlds Anthem)', artistName='Lil Nas X', releaseYear=1, streams=2022, bpm=9, danceability=22}
+Song{trackName='Calm Down', artistName='R��', releaseYear=1, streams=2022, bpm=2, danceability=9}
+Song{trackName='TV', artistName='Billie Eilish', releaseYear=1, streams=2022, bpm=7, danceability=21}
+Song{trackName='Pink Venom', artistName='BLACKPINK', releaseYear=1, streams=2022, bpm=8, danceability=19}
+Song{trackName='How Do I Say Goodbye', artistName='Dean Lewis', releaseYear=1, streams=2022, bpm=8, danceability=5}
+Song{trackName='Blind', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Die For You', artistName='Joji', releaseYear=1, streams=2022, bpm=11, danceability=4}
+Song{trackName='Doja', artistName='Central Cee', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='Gatita', artistName='Bellakath', releaseYear=1, streams=2022, bpm=10, danceability=3}
+Song{trackName='Super Freaky Girl', artistName='Nicki Minaj', releaseYear=1, streams=2022, bpm=8, danceability=12}
+Song{trackName='Limbo', artistName='Freddie Dredd', releaseYear=1, streams=2022, bpm=8, danceability=11}
+Song{trackName='KICK BACK', artistName='Kenshi Yonezu', releaseYear=1, streams=2022, bpm=10, danceability=12}
+Song{trackName='Evergreen (You Didn���t Deserve Me A', artistName='Omar Apollo', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Shut up My Moms Calling - (Sped Up)', artistName='Hotel Ugly', releaseYear=1, streams=2022, bpm=9, danceability=14}
+Song{trackName='Seek & Destroy', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Love Language', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Special', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='SOS', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Gone Girl', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='F2F', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Notice Me', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Wild Flower (with youjeen)', artistName='RM', releaseYear=1, streams=2022, bpm=12, danceability=2}
+Song{trackName='SPIT IN MY FACE!', artistName='ThxSoMch', releaseYear=1, streams=2022, bpm=10, danceability=31}
+Song{trackName='Smoking on my Ex Pack', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Conceited', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Maroon', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Bejeweled', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=10, danceability=21}
+Song{trackName='Too Late', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=8}
+Song{trackName='Far', artistName='SZA', releaseYear=1, streams=2022, bpm=12, danceability=9}
+Song{trackName='Sacrifice', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Is There Someone Else?', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Out of Time', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='How Do I Make You Love Me?', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Gasoline', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Less Than Zero', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Best Friends', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Dawn FM', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Starry Eyes', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Don���t Break My', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='A Tale By Quincy', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Every Angel is Terrifying', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='L���', artistName='Stromae', releaseYear=1, streams=2022, bpm=1, danceability=9}
+Song{trackName='Phantom Regret by Jim', artistName='The Weeknd', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='Miserable Man', artistName='David Kushner', releaseYear=1, streams=2022, bpm=1, danceability=7}
+Song{trackName='The Rumbling (TV Size)', artistName='SiM', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Blessed-Cursed', artistName='ENHYPEN', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Polaroid Love', artistName='ENHYPEN', releaseYear=1, streams=2022, bpm=1, danceability=10}
+Song{trackName='Stay Alive (Prod. SUGA of BTS)', artistName='Jung Kook', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Boyfriend', artistName='Dove Cameron', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Light Switch', artistName='Charlie Puth', releaseYear=1, streams=2022, bpm=1, danceability=19}
+Song{trackName='she's all i wanna be', artistName='Tate McRae', releaseYear=1, streams=2022, bpm=2, danceability=4}
+Song{trackName='Numb Little Bug', artistName='Em Beihold', releaseYear=1, streams=2022, bpm=1, danceability=28}
+Song{trackName='Worst Day', artistName='Future', releaseYear=1, streams=2022, bpm=2, danceability=11}
+Song{trackName='Malvada', artistName='Z�� Fe', releaseYear=1, streams=2022, bpm=1, danceability=28}
+Song{trackName='Una Noche en Medell�', artistName='Cris Mj', releaseYear=1, streams=2022, bpm=1, danceability=21}
+Song{trackName='Starlight', artistName='Dave', releaseYear=1, streams=2022, bpm=3, danceability=3}
+Song{trackName='Hati-Hati di Jalan', artistName='Tulus', releaseYear=1, streams=2022, bpm=3, danceability=3}
+Song{trackName='"I'm Tired - From ""Euphoria"" An Original HBO Series"', artistName='Labrinth', releaseYear=1, streams=2022, bpm=2, danceability=4}
+Song{trackName='Nail Tech', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='Chale', artistName='Eden Mu��', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='DARARI', artistName='Treasure', releaseYear=1, streams=2022, bpm=2, danceability=15}
+Song{trackName='Ya No Somos Ni Seremos', artistName='Christian Nodal', releaseYear=1, streams=2022, bpm=2, danceability=18}
+Song{trackName='O.O', artistName='NMIXX', releaseYear=1, streams=2022, bpm=2, danceability=22}
+Song{trackName='First Class', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Plan A', artistName='Paulo Londra', releaseYear=1, streams=2022, bpm=3, danceability=23}
+Song{trackName='Fuera del mercado', artistName='Danny Ocean', releaseYear=1, streams=2022, bpm=2, danceability=17}
+Song{trackName='When You're Gone', artistName='Shawn Mendes', releaseYear=1, streams=2022, bpm=3, danceability=31}
+Song{trackName='In My Head', artistName='Lil Tjay', releaseYear=1, streams=2022, bpm=4, danceability=1}
+Song{trackName='LOVE DIVE', artistName='IVE', releaseYear=1, streams=2022, bpm=4, danceability=5}
+Song{trackName='Chance', artistName='Paulo Londra', releaseYear=1, streams=2022, bpm=4, danceability=6}
+Song{trackName='Right On', artistName='Lil Baby', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='That's Hilarious', artistName='Charlie Puth', releaseYear=1, streams=2022, bpm=4, danceability=8}
+Song{trackName='Soy El Unico', artistName='Yahritza Y Su Esencia', releaseYear=1, streams=2022, bpm=3, danceability=25}
+Song{trackName='RUMBAT�', artistName='Daddy Yankee', releaseYear=1, streams=2022, bpm=3, danceability=25}
+Song{trackName='Fim de Semana no Rio', artistName='teto', releaseYear=1, streams=2022, bpm=3, danceability=30}
+Song{trackName='MANIAC', artistName='Stray Kids', releaseYear=1, streams=2022, bpm=3, danceability=18}
+Song{trackName='Still Life', artistName='BIGBANG', releaseYear=1, streams=2022, bpm=4, danceability=5}
+Song{trackName='N95', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='About Damn Time', artistName='Lizzo', releaseYear=1, streams=2022, bpm=4, danceability=14}
+Song{trackName='Despu��s de la P', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Ratito', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='United In Grief', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Yo No Soy Celoso', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Rich Spirit', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Me Fui de Vacaciones', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Count Me Out', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Dos Mil 16', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Coco', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Worldwide Steppers', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Aguacero', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Un Verano Sin Ti', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Ens����ame', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='El Apag�', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Dua Lipa', artistName='Jack Harlow', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Agosto', artistName='Bad Bunny', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='In The Stars', artistName='Benson Boone', releaseYear=1, streams=2022, bpm=4, danceability=29}
+Song{trackName='Rich - Interlude', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='SUPERMODEL', artistName='M��ne', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Stefania (Kalush Orchestra)', artistName='KALUSH', releaseYear=1, streams=2022, bpm=3, danceability=10}
+Song{trackName='Thousand Miles', artistName='The Kid Laroi', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Crown', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Auntie Diaries', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='PUFFIN ON ZOOTIEZ', artistName='Future', releaseYear=1, streams=2022, bpm=4, danceability=29}
+Song{trackName='Mirror', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='Beautiful Girl', artistName='Luciano', releaseYear=1, streams=2022, bpm=4, danceability=22}
+Song{trackName='Savior - Interlude', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='ZOOM', artistName='Jessi', releaseYear=1, streams=2022, bpm=4, danceability=13}
+Song{trackName='FEARLESS', artistName='LE SSERAFIM', releaseYear=1, streams=2022, bpm=5, danceability=2}
+Song{trackName='10 Things I Hate About You', artistName='Leah Kate', releaseYear=1, streams=2022, bpm=3, danceability=23}
+Song{trackName='SPACE MAN', artistName='Sam Ryder', releaseYear=1, streams=2022, bpm=2, danceability=22}
+Song{trackName='The Heart Part 5', artistName='Kendrick Lamar', releaseYear=1, streams=2022, bpm=5, danceability=8}
+Song{trackName='This Love (Taylor���s Ve', artistName='Taylor Swift', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Yet To Come', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Run BTS', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Music For a Sushi Restaurant', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Matilda', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='For Youth', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Daylight', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Vegas (From the Original Motion Picture Soundtrack ELVIS)', artistName='Doja Cat', releaseYear=1, streams=2022, bpm=5, danceability=6}
+Song{trackName='Born Singer', artistName='BTS', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Little Freak', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Satellite', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Love Of My Life', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Grapejuice', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='So Good', artistName='Halsey', releaseYear=1, streams=2022, bpm=6, danceability=9}
+Song{trackName='Keep Driving', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Cinema', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Hold My Hand', artistName='Lady Gaga', releaseYear=1, streams=2022, bpm=5, danceability=3}
+Song{trackName='Daydreaming', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Antes de Perderte', artistName='Duki', releaseYear=1, streams=2022, bpm=6, danceability=2}
+Song{trackName='Boyfriends', artistName='Harry Styles', releaseYear=1, streams=2022, bpm=5, danceability=20}
+Song{trackName='Tak Ingin Usai', artistName='Keisya Levronka', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='En El Radio Un Cochinero', artistName='Victor Cibrian', releaseYear=1, streams=2022, bpm=5, danceability=13}
+Song{trackName='BREAK MY SOUL', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=6, danceability=21}
+Song{trackName='Massive', artistName='Drake', releaseYear=1, streams=2022, bpm=6, danceability=17}
+Song{trackName='Betty (Get Money)', artistName='Yung Gravy', releaseYear=1, streams=2022, bpm=6, danceability=10}
+Song{trackName='Ojos Marrones', artistName='Lasso', releaseYear=1, streams=2022, bpm=2, danceability=6}
+Song{trackName='POP!', artistName='Nayeon', releaseYear=1, streams=2022, bpm=6, danceability=24}
+Song{trackName='MORE', artistName='j-hope', releaseYear=1, streams=2022, bpm=7, danceability=1}
+Song{trackName='Last Last', artistName='Burna Boy', releaseYear=1, streams=2022, bpm=5, danceability=12}
+Song{trackName='SNAP', artistName='Rosa Linn', releaseYear=1, streams=2022, bpm=3, danceability=19}
+Song{trackName='Sticky', artistName='Drake', releaseYear=1, streams=2022, bpm=6, danceability=17}
+Song{trackName='die first', artistName='Nessa Barrett', releaseYear=1, streams=2022, bpm=6, danceability=24}
+Song{trackName='Afraid To Feel', artistName='LF System', releaseYear=1, streams=2022, bpm=5, danceability=2}
+Song{trackName='c��mo dormi', artistName='Rels B', releaseYear=1, streams=2022, bpm=8, danceability=4}
+Song{trackName='Si Te La Encuentras Por Ah�', artistName='Feid', releaseYear=1, streams=2022, bpm=8, danceability=5}
+Song{trackName='GIVENCHY', artistName='Duki', releaseYear=1, streams=2022, bpm=7, danceability=20}
+Song{trackName='ALIEN SUPERSTAR', artistName='Beyonc�', releaseYear=1, streams=2022, bpm=7, danceability=29}
+Song{trackName='Attention', artistName='NewJeans', releaseYear=1, streams=2022, bpm=8, danceability=1}
+Song{trackName='THE SHADE', artistName='Rex Orange County', releaseYear=1, streams=2022, bpm=3, danceability=11}
+Song{trackName='"Come Back Home - From ""Purple Hearts"""', artistName='Sofia Carson', releaseYear=1, streams=2022, bpm=7, danceability=12}
+Song{trackName='LALA', artistName='Myke Towers', releaseYear=1, streams=2023, bpm=3, danceability=23}
+Song{trackName='vampire', artistName='Olivia Rodrigo', releaseYear=1, streams=2023, bpm=6, danceability=30}
+Song{trackName='WHERE SHE GOES', artistName='Bad Bunny', releaseYear=1, streams=2023, bpm=5, danceability=18}
+Song{trackName='Columbia', artistName='Quevedo', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='fukumean', artistName='Gunna', releaseYear=1, streams=2023, bpm=5, danceability=15}
+Song{trackName='Super Shy', artistName='NewJeans', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Flowers', artistName='Miley Cyrus', releaseYear=1, streams=2023, bpm=1, danceability=12}
+Song{trackName='Daylight', artistName='David Kushner', releaseYear=1, streams=2023, bpm=4, danceability=14}
+Song{trackName='Cupid - Twin Ver.', artistName='Fifty Fifty', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='"What Was I Made For? [From The Motion Picture ""Barbie""]"', artistName='Billie Eilish', releaseYear=1, streams=2023, bpm=7, danceability=13}
+Song{trackName='Like Crazy', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='I Can See You (Taylor���s Version) (From The', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='SABOR FRESA', artistName='Fuerza Regida', releaseYear=1, streams=2023, bpm=6, danceability=22}
+Song{trackName='Last Night', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Dance The Night (From Barbie The Album)', artistName='Dua Lipa', releaseYear=1, streams=2023, bpm=5, danceability=25}
+Song{trackName='Rush', artistName='Troye Sivan', releaseYear=1, streams=2023, bpm=7, danceability=13}
+Song{trackName='TQM', artistName='Fuerza Regida', releaseYear=1, streams=2023, bpm=5, danceability=19}
+Song{trackName='AMARGURA', artistName='Karol G', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='(It Goes Like) Nanana - Edit', artistName='Peggy Gou', releaseYear=1, streams=2023, bpm=6, danceability=15}
+Song{trackName='Moonlight', artistName='Kali Uchis', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='S91', artistName='Karol G', releaseYear=1, streams=2023, bpm=7, danceability=14}
+Song{trackName='Overdrive', artistName='Post Malone', releaseYear=1, streams=2023, bpm=7, danceability=14}
+Song{trackName='Enchanted (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='CORAZ��N VA', artistName='Maria Becerra', releaseYear=1, streams=2023, bpm=6, danceability=22}
+Song{trackName='Back To December (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Fast Car', artistName='Luke Combs', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='What It Is (Solo Version)', artistName='Doechii', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Say Yes To Heaven', artistName='Lana Del Rey', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Take Two', artistName='BTS', releaseYear=1, streams=2023, bpm=6, danceability=9}
+Song{trackName='Chemical', artistName='Post Malone', releaseYear=1, streams=2023, bpm=4, danceability=14}
+Song{trackName='New Jeans', artistName='NewJeans', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Mine (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Tattoo', artistName='Loreen', releaseYear=1, streams=2023, bpm=2, danceability=25}
+Song{trackName='Queencard', artistName='(G)I-DLE', releaseYear=1, streams=2023, bpm=5, danceability=15}
+Song{trackName='OMG', artistName='NewJeans', releaseYear=1, streams=2023, bpm=1, danceability=2}
+Song{trackName='El Gordo Trae El Mando', artistName='Chino Pacas', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Mi Bello Angel', artistName='Natanael Cano', releaseYear=1, streams=2023, bpm=6, danceability=30}
+Song{trackName='Bye', artistName='Peso Pluma', releaseYear=1, streams=2023, bpm=5, danceability=26}
+Song{trackName='������������', artistName='YOASOBI', releaseYear=1, streams=2023, bpm=4, danceability=12}
+Song{trackName='Cheques', artistName='Shubh', releaseYear=1, streams=2023, bpm=5, danceability=19}
+Song{trackName='Better Than Revenge (Taylor's Version)', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=7, danceability=7}
+Song{trackName='Acr��s', artistName='Shakira', releaseYear=1, streams=2023, bpm=5, danceability=11}
+Song{trackName='S-Class', artistName='Stray Kids', releaseYear=1, streams=2023, bpm=6, danceability=2}
+Song{trackName='Hits Different', artistName='Taylor Swift', releaseYear=1, streams=2023, bpm=5, danceability=26}
+Song{trackName='FLOWER', artistName='JISOO', releaseYear=1, streams=2023, bpm=3, danceability=31}
+Song{trackName='Eyes Closed', artistName='Ed Sheeran', releaseYear=1, streams=2023, bpm=3, danceability=23}
+Song{trackName='Bite Me', artistName='ENHYPEN', releaseYear=1, streams=2023, bpm=5, danceability=22}
+Song{trackName='Search & Rescue', artistName='Drake', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Erro Gostoso - Ao Vivo', artistName='Simone Mendes', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Cupido', artistName='Tini', releaseYear=1, streams=2023, bpm=2, danceability=14}
+Song{trackName='Oi Balde - Ao Vivo', artistName='Z�� Neto & Crist', releaseYear=1, streams=2023, bpm=2, danceability=14}
+Song{trackName='Curtains', artistName='Ed Sheeran', releaseYear=1, streams=2023, bpm=5, danceability=5}
+Song{trackName='Haegeum', artistName='Agust D', releaseYear=1, streams=2023, bpm=4, danceability=21}
+Song{trackName='MIENTRAS ME CURO DEL CORA', artistName='Karol G', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='Never Felt So Alone', artistName='Labrinth', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Cupid', artistName='Fifty Fifty', releaseYear=1, streams=2023, bpm=2, danceability=24}
+Song{trackName='I AM', artistName='IVE', releaseYear=1, streams=2023, bpm=4, danceability=10}
+Song{trackName='Super', artistName='SEVENTEEN', releaseYear=1, streams=2023, bpm=4, danceability=24}
+Song{trackName='Set Me Free Pt.2', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='Like Crazy (English Version)', artistName='Jimin', releaseYear=1, streams=2023, bpm=3, danceability=24}
+Song{trackName='REMIX EXCLUSIVO', artistName='Feid', releaseYear=1, streams=2023, bpm=3, danceability=17}
+Song{trackName='HAPPY', artistName='NF', releaseYear=1, streams=2023, bpm=3, danceability=25}
+Song{trackName='VOID', artistName='Melanie Martinez', releaseYear=1, streams=2023, bpm=3, danceability=29}
+Song{trackName='If We Ever Broke Up', artistName='Mae Stephens', releaseYear=1, streams=2023, bpm=2, danceability=10}
+Song{trackName='Peaches (from The Super Mario Bros. Movie)', artistName='Jack Black', releaseYear=1, streams=2023, bpm=4, danceability=7}
+Song{trackName='Ain���t Tha', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Thinkin��� B', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Everything I Love', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Heaven', artistName='Niall Horan', releaseYear=1, streams=2023, bpm=2, danceability=17}
+Song{trackName='Sial', artistName='Mahalini', releaseYear=1, streams=2023, bpm=1, danceability=23}
+Song{trackName='I Wrote The Book', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=1, danceability=31}
+Song{trackName='Red Ruby Da Sleeze', artistName='Nicki Minaj', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='���98 Braves', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='WANDA', artistName='Quevedo', releaseYear=1, streams=2023, bpm=1, danceability=20}
+Song{trackName='Love Again', artistName='The Kid Laroi', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Born With A Beer In My Hand', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='Devil Don���', artistName='Morgan Wallen', releaseYear=1, streams=2023, bpm=3, danceability=3}
+Song{trackName='LLYLM', artistName='ROSAL�', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='TRUSTFALL', artistName='P!nk', releaseYear=1, streams=2023, bpm=1, danceability=27}
+Song{trackName='Sugar Rush Ride', artistName='TOMORROW X TOGETHER', releaseYear=1, streams=2023, bpm=1, danceability=27}
